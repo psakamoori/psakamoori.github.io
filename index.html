@@ -1,1 +1,82 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<script src='https://d3js.org/d3.v5.min.js'></script>
+<style> circle {fill: lightblue; stroke: blue;} </style>
+<body>
+<svg width=1280 height=720>
+</svg>
+<script>
+
+  width = 1280
+  height = 720
+
+  // x-axis GDP Per Caita ($US)
+  var x = d3.scaleLog().domain([100, 10000000000]).range([0, width-50])
+ 
+  // Mortality Rate in %
+  var y = d3.scaleLinear().domain([0.1, 1]).range([height-50, 0])
+
+  var svg = d3.select('svg'),
+        g = svg.append('g')
+        .attr("transform", "translate(" + 50 + "," + 50 + ")")
+
+  var yAxis = d3.axisLeft(y).tickValues([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]);
+  yAxis.tickFormat(d3.format("~%"));
+
+
+  svg.append("g").attr("transform", "translate(" + 50 + "," +50+ ")").call(yAxis);
+  svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0)
+      .attr("x",0 - (height / 2))
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Mortality Rate");
+
+  var xAxis = d3.axisBottom(x).tickValues([100, 10000, 1000000, 10000000000]);
+  xAxis.tickFormat(d3.format("$"));
+
+
+  xaxis_trans = height  - 50
+  svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans+ ")").call(xAxis);
+  svg.append("text")
+     .attr("transform","translate(" + (width/2) + " ," + (height - 20) + ")")
+     .attr("text-anchor", "middle")
+     .text("GDP Per Capita");
+
+  d3.select('body').append('div').attr('id','tooltip').attr('style','position: absolute; opacity:0;');
+
+
+d3.csv("https://github.com/psakamoori/psakamoori.github.io/blob/master/child-mortality-gdp-per-capita.csv", function(data){
+  
+  console.log(data)
+  var yearScale = d3.scaleLinear().domain([0, 218]).range([1800, 2019]);
+ 
+  var map_update = function(year) {
+
+  g.selectAll('circle')
+   .data(data)
+   .enter().append('circle')
+   .attr("cx", function(d) { if (year == d.Year) { return x(+d.GDP) } else {return 0};})
+   .attr("cy", function(d) { if (year == d.Year) { return y(+d.ChildMortalityRate)} else {return 0};})
+   .attr("r", function(d) { if (year == d.Year) {return  +d.ChildMortalityRate + 2} else {return 0};})
+   .style("fill", function(d, i) { return color(i); })
+   .on('mouseover', function(d) {
+       d3.select('#tooltip').transition().duration(200).style('opacity',1).text(d.Entity)
+    })
+   .on('mouseout', function() {
+     d3.select('#tooltip').style('opacity',0)
+    })
+   .on('mousemove', function() {
+      d3.select('#tooltip').style('left', (d3.event.pageX+10) + 'px').style('top', (d3.event.pageY+10) + 'px')
+    });
+
+  }
+
+  map_update(2019);
+})
+
+
+</script>
+</body>
+</html>
