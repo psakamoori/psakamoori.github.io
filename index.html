@@ -11,17 +11,17 @@
   height = 720
 
   // x-axis GDP Per Caita ($US)
-  var x = d3.scaleLog().domain([100, 10000000000]).range([0, width-50])
+  var x = d3.scaleLog().domain([100, 10000000000]).range([0, width-100])
  
   // Mortality Rate in %
-  var y = d3.scaleLinear().domain([0.1, 1]).range([height-50, 0])
+  var y = d3.scaleLinear().domain([1, 100]).range([height-100, 0])
 
   var svg = d3.select('svg'),
         g = svg.append('g')
         .attr("transform", "translate(" + 50 + "," + 50 + ")")
 
-  var yAxis = d3.axisLeft(y).tickValues([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]);
-  yAxis.tickFormat(d3.format("~%"));
+  var yAxis = d3.axisLeft(y).tickValues([10, 20, 30, 40, 50, 60, 70, 80, 90, 100]);
+  //yAxis.tickFormat(d3.format("~%"));
 
 
   svg.append("g").attr("transform", "translate(" + 50 + "," +50+ ")").call(yAxis);
@@ -47,7 +47,8 @@
   d3.select('body').append('div').attr('id','tooltip').attr('style','position: absolute; opacity:0;');
 
 
-d3.csv("https://github.com/psakamoori/psakamoori.github.io/blob/master/child-mortality-gdp-per-capita.csv", function(data){
+//d3.csv("child-mortality-gdp-per-capita.csv", function(data)
+d3.csv("ChildMortalityGDPPerCapita.csv", function(data) {
   
   console.log(data)
   var yearScale = d3.scaleLinear().domain([0, 218]).range([1800, 2019]);
