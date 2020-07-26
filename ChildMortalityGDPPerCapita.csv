@@ -1,4 +1,5 @@
 Year,Entity,Code,ChildMortalityRate,GDP,Population
+1959,Afghanistan,AFG,36.9361,2705.0,8834000.0
 1960,Afghanistan,AFG,36.37,2744.0,8997000.0
 1961,Afghanistan,AFG,35.75,2708.0,9169000.0
 1962,Afghanistan,AFG,35.15,2695.0,9351000.0
@@ -59,6 +60,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Afghanistan,AFG,,,36296000.0
 2018,Afghanistan,AFG,,,37172000.0
 2019,Afghanistan,AFG,,,38042000.0
+1959,Africa,,,1840.0,276760992.0
 1960,Africa,,,1852.0,283360992.0
 1961,Africa,,,1883.0,290214016.0
 1962,Africa,,,1971.0,297323008.0
@@ -116,11 +118,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Africa,,,4638.0,1152434048.0
 2015,Africa,,,4684.0,1182439040.0
 2016,Africa,,,4680.0,1213041024.0
-1000,Africa,,,,41465160.0
-1300,Africa,,,,53531812.0
-1400,Africa,,,,57880048.0
-1500,Africa,,,,62206640.0
-1600,Africa,,,,72815088.0
 1700,Africa,,,,80209440.0
 1710,Africa,,,,81333552.0
 1720,Africa,,,,81582976.0
@@ -131,31 +128,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,Africa,,,,83681184.0
 1780,Africa,,,,84262792.0
 1790,Africa,,,,84900352.0
-10000 BCE,Africa,,,,241901.0
-9000 BCE,Africa,,,,342782.0
-8000 BCE,Africa,,,,490284.0
-7000 BCE,Africa,,,,707844.0
-6000 BCE,Africa,,,,1031529.0
-5000 BCE,Africa,,,,1517227.0
-4000 BCE,Africa,,,,2352091.0
-3000 BCE,Africa,,,,4147835.0
-2000 BCE,Africa,,,,6259743.0
-1000 BCE,Africa,,,,9263872.0
-0,Africa,,,,15185668.0
-100,Africa,,,,16626739.0
-200,Africa,,,,18269986.0
-300,Africa,,,,19315228.0
-400,Africa,,,,20676600.0
-500,Africa,,,,22307212.0
-600,Africa,,,,24445556.0
-700,Africa,,,,28184552.0
-800,Africa,,,,32914604.0
-900,Africa,,,,37126288.0
-1100,Africa,,,,44318856.0
-1200,Africa,,,,47743012.0
 2017,Africa,,,,1244221952.0
 2018,Africa,,,,1275921024.0
 2019,Africa,,,,1308064000.0
+1959,Albania,ALB,,2038.0,1589000.0
 1960,Albania,ALB,,2142.0,1636000.0
 1961,Albania,ALB,,2159.0,1686000.0
 1962,Albania,ALB,,2231.0,1738000.0
@@ -216,6 +192,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Albania,ALB,,,2884000.0
 2018,Albania,ALB,,,2883000.0
 2019,Albania,ALB,,,2881000.0
+1959,Algeria,DZA,24.52,,10783000.0
 1960,Algeria,DZA,24.480000000000004,,11058000.0
 1961,Algeria,DZA,24.47,,11336000.0
 1962,Algeria,DZA,24.5,,11620000.0
@@ -276,6 +253,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Algeria,DZA,,,41389000.0
 2018,Algeria,DZA,,,42228000.0
 2019,Algeria,DZA,,,43053000.0
+1959,American Samoa,ASM,,,20000.0
 1960,American Samoa,ASM,,,20000.0
 1961,American Samoa,ASM,,,21000.0
 1962,American Samoa,ASM,,,21000.0
@@ -336,6 +314,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,American Samoa,ASM,,,56000.0
 2018,American Samoa,ASM,,,55000.0
 2019,American Samoa,ASM,,,55000.0
+1959,Andorra,AND,,,12000.0
 1960,Andorra,AND,,,13000.0
 1961,Andorra,AND,,,14000.0
 1962,Andorra,AND,,,15000.0
@@ -396,6 +375,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Andorra,AND,,,77000.0
 2018,Andorra,AND,,,77000.0
 2019,Andorra,AND,,,77000.0
+1959,Angola,AGO,,,5381000.0
 1960,Angola,AGO,,,5455000.0
 1961,Angola,AGO,,,5531000.0
 1962,Angola,AGO,,,5608000.0
@@ -456,6 +436,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Angola,AGO,,,29817000.0
 2018,Angola,AGO,,,30810000.0
 2019,Angola,AGO,,,31825000.0
+1959,Anguilla,AIA,,,6000.0
 1960,Anguilla,AIA,,,6000.0
 1961,Anguilla,AIA,,,6000.0
 1962,Anguilla,AIA,,,6000.0
@@ -516,6 +497,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Anguilla,AIA,,,15000.0
 2018,Anguilla,AIA,,,15000.0
 2019,Anguilla,AIA,,,15000.0
+1959,Antigua and Barbuda,ATG,,,53000.0
 1960,Antigua and Barbuda,ATG,,,54000.0
 1961,Antigua and Barbuda,ATG,,,55000.0
 1962,Antigua and Barbuda,ATG,,,56000.0
@@ -576,6 +558,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Antigua and Barbuda,ATG,,,95000.0
 2018,Antigua and Barbuda,ATG,,,96000.0
 2019,Antigua and Barbuda,ATG,,,97000.0
+1959,Argentina,ARG,,8665.0,20146000.0
 1960,Argentina,ARG,,8928.0,20482000.0
 1961,Argentina,ARG,,9455.0,20817000.0
 1962,Argentina,ARG,,9197.0,21153000.0
@@ -636,6 +619,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Argentina,ARG,,,43937000.0
 2018,Argentina,ARG,,,44361000.0
 2019,Argentina,ARG,,,44781000.0
+1959,Armenia,ARM,,,1808000.0
 1960,Armenia,ARM,,,1874000.0
 1961,Armenia,ARM,,,1941000.0
 1962,Armenia,ARM,,,2010000.0
@@ -696,6 +680,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Armenia,ARM,,,2945000.0
 2018,Armenia,ARM,,,2952000.0
 2019,Armenia,ARM,,,2958000.0
+1959,Aruba,ABW,,,53000.0
 1960,Aruba,ABW,,,54000.0
 1961,Aruba,ABW,,,55000.0
 1962,Aruba,ABW,,,56000.0
@@ -756,6 +741,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Aruba,ABW,,,105000.0
 2018,Aruba,ABW,,,106000.0
 2019,Aruba,ABW,,,106000.0
+1959,Asia,,,,1671747968.0
 1960,Asia,,,,1705041024.0
 1961,Asia,,,,1739385984.0
 1962,Asia,,,,1775031040.0
@@ -813,11 +799,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Asia,,,,4389699072.0
 2015,Asia,,,,4433475072.0
 2016,Asia,,,,4476608000.0
-1000,Asia,,,,188585408.0
-1300,Asia,,,,221290608.0
-1400,Asia,,,,229632560.0
-1500,Asia,,,,272967232.0
-1600,Asia,,,,364970688.0
 1700,Asia,,,,387623424.0
 1710,Asia,,,,409051776.0
 1720,Asia,,,,422732352.0
@@ -828,31 +809,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,Asia,,,,585400128.0
 1780,Asia,,,,664648192.0
 1790,Asia,,,,690969280.0
-10000 BCE,Asia,,,,914198.0
-9000 BCE,Asia,,,,1557637.0
-8000 BCE,Asia,,,,2415036.0
-7000 BCE,Asia,,,,3791700.0
-6000 BCE,Asia,,,,6142399.0
-5000 BCE,Asia,,,,10296941.0
-4000 BCE,Asia,,,,17179856.0
-3000 BCE,Asia,,,,27662912.0
-2000 BCE,Asia,,,,45947828.0
-1000 BCE,Asia,,,,74546432.0
-0,Asia,,,,121526576.0
-100,Asia,,,,125047832.0
-200,Asia,,,,128691576.0
-300,Asia,,,,131674992.0
-400,Asia,,,,134818480.0
-500,Asia,,,,138098288.0
-600,Asia,,,,141597600.0
-700,Asia,,,,148147040.0
-800,Asia,,,,154876688.0
-900,Asia,,,,172793264.0
-1100,Asia,,,,232217664.0
-1200,Asia,,,,250480640.0
 2017,Asia,,,,4519040000.0
 2018,Asia,,,,4560667136.0
 2019,Asia,,,,4601371136.0
+1959,Australia,AUS,2.54,15301.0,10029000.0
 1960,Australia,AUS,2.49,15196.0,10242000.0
 1961,Australia,AUS,2.43,15050.0,10446000.0
 1962,Australia,AUS,2.37,15506.0,10643000.0
@@ -913,6 +873,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Australia,AUS,,,24585000.0
 2018,Australia,AUS,,,24898000.0
 2019,Australia,AUS,,,25203000.0
+1959,Austria,AUT,4.55,8081.0,7037000.0
 1960,Austria,AUT,4.28,8508.0,7071000.0
 1961,Austria,AUT,4.0200000000000005,9025.0,7111000.0
 1962,Austria,AUT,3.79,9416.0,7157000.0
@@ -973,6 +934,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Austria,AUT,,,8820000.0
 2018,Austria,AUT,,,8891000.0
 2019,Austria,AUT,,,8955000.0
+1959,Azerbaijan,AZE,,,3768000.0
 1960,Azerbaijan,AZE,,,3895000.0
 1961,Azerbaijan,AZE,,,4030000.0
 1962,Azerbaijan,AZE,,,4171000.0
@@ -1033,6 +995,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Azerbaijan,AZE,,,9845000.0
 2018,Azerbaijan,AZE,,,9950000.0
 2019,Azerbaijan,AZE,,,10048000.0
+1959,Bahamas,BHS,,,104000.0
 1960,Bahamas,BHS,,,110000.0
 1961,Bahamas,BHS,,,115000.0
 1962,Bahamas,BHS,,,121000.0
@@ -1093,6 +1056,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bahamas,BHS,,,382000.0
 2018,Bahamas,BHS,,,386000.0
 2019,Bahamas,BHS,,,389000.0
+1959,Bahrain,BHR,21.69,,157000.0
 1960,Bahrain,BHR,19.91,,162000.0
 1961,Bahrain,BHR,18.23,,168000.0
 1962,Bahrain,BHR,16.66,,173000.0
@@ -1153,6 +1117,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bahrain,BHR,,,1494000.0
 2018,Bahrain,BHR,,,1569000.0
 2019,Bahrain,BHR,,,1641000.0
+1959,Bangladesh,BGD,26.92,1084.0,46701000.0
 1960,Bangladesh,BGD,26.230000000000004,1151.0,48014000.0
 1961,Bangladesh,BGD,25.58,1240.0,49363000.0
 1962,Bangladesh,BGD,24.96,1206.0,50752000.0
@@ -1213,6 +1178,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bangladesh,BGD,,,159684992.0
 2018,Bangladesh,BGD,,,161376992.0
 2019,Bangladesh,BGD,,,163046000.0
+1959,Barbados,BRB,9.06,6820.0,230000.0
 1960,Barbados,BRB,8.370000000000001,7175.0,231000.0
 1961,Barbados,BRB,7.800000000000002,7489.0,232000.0
 1962,Barbados,BRB,7.31,7919.0,233000.0
@@ -1273,6 +1239,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Barbados,BRB,,,286000.0
 2018,Barbados,BRB,,,287000.0
 2019,Barbados,BRB,,,287000.0
+1959,Belarus,BLR,5.072800000000001,,8042000.0
 1960,Belarus,BLR,4.5762,,8125000.0
 1961,Belarus,BLR,4.1556,,8204000.0
 1962,Belarus,BLR,3.7986,,8280000.0
@@ -1333,6 +1300,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Belarus,BLR,,,9450000.0
 2018,Belarus,BLR,,,9453000.0
 2019,Belarus,BLR,,,9452000.0
+1959,Belgium,BEL,3.5700000000000003,9104.0,9110000.0
 1960,Belgium,BEL,3.39,9113.0,9167000.0
 1961,Belgium,BEL,3.24,9635.0,9225000.0
 1962,Belgium,BEL,3.12,10445.0,9284000.0
@@ -1391,15 +1359,14 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2015,Belgium,BEL,0.4,39531.0,11288000.0
 2016,Belgium,BEL,0.39,39733.0,11354000.0
 1,Belgium,BEL,,1050.0,
-1500,Belgium,BEL,,1836.0,
 1550,Belgium,BEL,,1892.0,
-1600,Belgium,BEL,,1989.0,
 1650,Belgium,BEL,,1809.0,
 1700,Belgium,BEL,,1720.0,
 1750,Belgium,BEL,,1703.0,
 2017,Belgium,BEL,,,11420000.0
 2018,Belgium,BEL,,,11482000.0
 2019,Belgium,BEL,,,11539000.0
+1959,Belize,BLZ,,,89000.0
 1960,Belize,BLZ,,,92000.0
 1961,Belize,BLZ,,,95000.0
 1962,Belize,BLZ,,,97000.0
@@ -1460,6 +1427,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Belize,BLZ,,,376000.0
 2018,Belize,BLZ,,,383000.0
 2019,Belize,BLZ,,,390000.0
+1959,Benin,BEN,32.27,1224.0,2400000.0
 1960,Benin,BEN,31.84,1281.0,2432000.0
 1961,Benin,BEN,31.34,1331.0,2466000.0
 1962,Benin,BEN,30.75,1294.0,2503000.0
@@ -1520,6 +1488,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Benin,BEN,,,11175000.0
 2018,Benin,BEN,,,11485000.0
 2019,Benin,BEN,,,11801000.0
+1959,Bermuda,BMU,,,44000.0
 1960,Bermuda,BMU,,,45000.0
 1961,Bermuda,BMU,,,46000.0
 1962,Bermuda,BMU,,,47000.0
@@ -1580,6 +1549,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bermuda,BMU,,,63000.0
 2018,Bermuda,BMU,,,63000.0
 2019,Bermuda,BMU,,,63000.0
+1959,Bhutan,BTN,,,218000.0
 1960,Bhutan,BTN,,,223000.0
 1961,Bhutan,BTN,,,229000.0
 1962,Bhutan,BTN,,,235000.0
@@ -1640,6 +1610,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bhutan,BTN,,,746000.0
 2018,Bhutan,BTN,,,754000.0
 2019,Bhutan,BTN,,,763000.0
+1959,Bolivia,BOL,,1245.0,3587000.0
 1960,Bolivia,BOL,29.02,1237.0,3657000.0
 1961,Bolivia,BOL,28.4,1250.0,3729000.0
 1962,Bolivia,BOL,27.79,1247.0,3803000.0
@@ -1700,6 +1671,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bolivia,BOL,,,11193000.0
 2018,Bolivia,BOL,,,11353000.0
 2019,Bolivia,BOL,,,11513000.0
+1959,Bonaire Sint Eustatius and Saba,BES,,,8000.0
 1960,Bonaire Sint Eustatius and Saba,BES,,,8000.0
 1961,Bonaire Sint Eustatius and Saba,BES,,,8000.0
 1962,Bonaire Sint Eustatius and Saba,BES,,,8000.0
@@ -1760,6 +1732,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bonaire Sint Eustatius and Saba,BES,,,25000.0
 2018,Bonaire Sint Eustatius and Saba,BES,,,26000.0
 2019,Bonaire Sint Eustatius and Saba,BES,,,26000.0
+1959,Bosnia and Herzegovina,BIH,,893.0,3165000.0
 1960,Bosnia and Herzegovina,BIH,12.5014,962.0,3226000.0
 1961,Bosnia and Herzegovina,BIH,,980.0,3289000.0
 1962,Bosnia and Herzegovina,BIH,,960.0,3353000.0
@@ -1820,6 +1793,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bosnia and Herzegovina,BIH,,,3352000.0
 2018,Bosnia and Herzegovina,BIH,,,3324000.0
 2019,Bosnia and Herzegovina,BIH,,,3301000.0
+1959,Botswana,BWA,17.46,1224.0,494000.0
 1960,Botswana,BWA,16.91,1200.0,503000.0
 1961,Botswana,BWA,16.37,1213.0,513000.0
 1962,Botswana,BWA,15.840000000000002,1235.0,524000.0
@@ -1880,6 +1854,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Botswana,BWA,,,2205000.0
 2018,Botswana,BWA,,,2254000.0
 2019,Botswana,BWA,,,2304000.0
+1959,Brazil,BRA,17.62,2124.0,70123000.0
 1960,Brazil,BRA,17.12,2280.0,72179000.0
 1961,Brazil,BRA,16.650000000000002,2442.0,74311000.0
 1962,Brazil,BRA,16.2,2559.0,76514000.0
@@ -1940,6 +1915,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Brazil,BRA,,,207834000.0
 2018,Brazil,BRA,,,209468992.0
 2019,Brazil,BRA,,,211050000.0
+1959,British Virgin Islands,VGB,,,8000.0
 1960,British Virgin Islands,VGB,,,8000.0
 1961,British Virgin Islands,VGB,,,8000.0
 1962,British Virgin Islands,VGB,,,8000.0
@@ -2000,6 +1976,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,British Virgin Islands,VGB,,,30000.0
 2018,British Virgin Islands,VGB,,,30000.0
 2019,British Virgin Islands,VGB,,,30000.0
+1959,Brunei,BRN,,,78000.0
 1960,Brunei,BRN,,,82000.0
 1961,Brunei,BRN,,,86000.0
 1962,Brunei,BRN,,,89000.0
@@ -2060,6 +2037,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Brunei,BRN,,,424000.0
 2018,Brunei,BRN,,,429000.0
 2019,Brunei,BRN,,,433000.0
+1959,Bulgaria,BGR,6.0048,4749.0,7819000.0
 1960,Bulgaria,BGR,5.3602,5153.0,7886000.0
 1961,Bulgaria,BGR,4.784000000000002,5437.0,7953000.0
 1962,Bulgaria,BGR,4.2967,5832.0,8022000.0
@@ -2120,6 +2098,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Bulgaria,BGR,,,7102000.0
 2018,Bulgaria,BGR,,,7052000.0
 2019,Bulgaria,BGR,,,7000000.0
+1959,Burkina Faso,BFA,34.92,1558.0,4764000.0
 1960,Burkina Faso,BFA,34.43,1557.0,4829000.0
 1961,Burkina Faso,BFA,34.010000000000005,1749.0,4895000.0
 1962,Burkina Faso,BFA,33.580000000000005,1877.0,4960000.0
@@ -2180,6 +2159,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Burkina Faso,BFA,,,19193000.0
 2018,Burkina Faso,BFA,,,19751000.0
 2019,Burkina Faso,BFA,,,20321000.0
+1959,Burundi,BDI,25.478,977.0,2743000.0
 1960,Burundi,BDI,25.189400000000006,973.0,2798000.0
 1961,Burundi,BDI,24.898000000000003,834.0,2852000.0
 1962,Burundi,BDI,24.604100000000006,903.0,2907000.0
@@ -2240,6 +2220,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Burundi,BDI,,,10827000.0
 2018,Burundi,BDI,,,11175000.0
 2019,Burundi,BDI,,,11531000.0
+1959,Cambodia,KHM,,745.0,5579000.0
 1960,Cambodia,KHM,,769.0,5722000.0
 1961,Cambodia,KHM,,741.0,5873000.0
 1962,Cambodia,KHM,,780.0,6028000.0
@@ -2300,6 +2281,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cambodia,KHM,,,16009000.0
 2018,Cambodia,KHM,,,16250000.0
 2019,Cambodia,KHM,,,16487000.0
+1959,Cameroon,CMR,28.460000000000004,1055.0,5074000.0
 1960,Cameroon,CMR,27.69,1067.0,5177000.0
 1961,Cameroon,CMR,27.130000000000006,1093.0,5285000.0
 1962,Cameroon,CMR,26.710000000000004,1086.0,5399000.0
@@ -2360,6 +2342,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cameroon,CMR,,,24566000.0
 2018,Cameroon,CMR,,,25216000.0
 2019,Cameroon,CMR,,,25876000.0
+1959,Canada,CAN,3.370000000000001,13798.0,17436000.0
 1960,Canada,CAN,3.26,13626.0,17847000.0
 1961,Canada,CAN,3.16,13892.0,18234000.0
 1962,Canada,CAN,3.0500000000000003,14577.0,18597000.0
@@ -2420,6 +2403,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Canada,CAN,,,36732000.0
 2018,Canada,CAN,,,37075000.0
 2019,Canada,CAN,,,37411000.0
+1959,Cape Verde,CPV,,1230.0,199000.0
 1960,Cape Verde,CPV,,1284.0,202000.0
 1961,Cape Verde,CPV,,1440.0,205000.0
 1962,Cape Verde,CPV,,1423.0,210000.0
@@ -2480,6 +2464,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cape Verde,CPV,,,537000.0
 2018,Cape Verde,CPV,,,544000.0
 2019,Cape Verde,CPV,,,550000.0
+1959,Cayman Islands,CYM,,,8000.0
 1960,Cayman Islands,CYM,,,8000.0
 1961,Cayman Islands,CYM,,,8000.0
 1962,Cayman Islands,CYM,,,8000.0
@@ -2540,6 +2525,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cayman Islands,CYM,,,63000.0
 2018,Cayman Islands,CYM,,,64000.0
 2019,Cayman Islands,CYM,,,65000.0
+1959,Central African Republic,CAF,28.5815,1408.0,1479000.0
 1960,Central African Republic,CAF,28.180000000000003,1395.0,1502000.0
 1961,Central African Republic,CAF,27.630000000000006,1472.0,1526000.0
 1962,Central African Republic,CAF,27.04,1484.0,1552000.0
@@ -2600,6 +2586,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Central African Republic,CAF,,,4596000.0
 2018,Central African Republic,CAF,,,4666000.0
 2019,Central African Republic,CAF,,,4745000.0
+1959,Chad,TCD,,1496.0,2945000.0
 1960,Chad,TCD,,1482.0,3002000.0
 1961,Chad,TCD,,1476.0,3060000.0
 1962,Chad,TCD,,1528.0,3121000.0
@@ -2660,6 +2647,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Chad,TCD,,,15017000.0
 2018,Chad,TCD,,,15478000.0
 2019,Chad,TCD,,,15947000.0
+1959,Channel Islands,OWID_CIS,,,109000.0
 1960,Channel Islands,OWID_CIS,,,109000.0
 1961,Channel Islands,OWID_CIS,,,110000.0
 1962,Channel Islands,OWID_CIS,,,111000.0
@@ -2720,6 +2708,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Channel Islands,OWID_CIS,,,169000.0
 2018,Channel Islands,OWID_CIS,,,170000.0
 2019,Channel Islands,OWID_CIS,,,172000.0
+1959,Chile,CHL,16.830000000000002,4863.0,7965000.0
 1960,Chile,CHL,15.740000000000002,4960.0,8133000.0
 1961,Chile,CHL,14.85,4729.0,8304000.0
 1962,Chile,CHL,14.2,5821.0,8477000.0
@@ -2780,6 +2769,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Chile,CHL,,,18470000.0
 2018,Chile,CHL,,,18729000.0
 2019,Chile,CHL,,,18952000.0
+1959,China,CHN,26.845,988.0,650212992.0
 1960,China,CHN,30.899,923.0,660408000.0
 1961,China,CHN,26.186000000000003,799.0,670953024.0
 1962,China,CHN,16.782,866.0,682102976.0
@@ -2842,6 +2832,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,China,CHN,,,1421021952.0
 2018,China,CHN,,,1427648000.0
 2019,China,CHN,,,1433784064.0
+1959,Colombia,COL,14.06,3349.0,15565000.0
 1960,Colombia,COL,13.57,3377.0,16058000.0
 1961,Colombia,COL,13.11,3447.0,16568000.0
 1962,Colombia,COL,12.670000000000002,3519.0,17093000.0
@@ -2902,6 +2893,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Colombia,COL,,,48910000.0
 2018,Colombia,COL,,,49661000.0
 2019,Colombia,COL,,,50339000.0
+1959,Comoros,COM,,1040.0,188000.0
 1960,Comoros,COM,32.525999999999996,1103.0,191000.0
 1961,Comoros,COM,,1129.0,194000.0
 1962,Comoros,COM,,1240.0,197000.0
@@ -2962,6 +2954,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Comoros,COM,,,814000.0
 2018,Comoros,COM,,,832000.0
 2019,Comoros,COM,,,851000.0
+1959,Congo,COG,18.75,1380.0,995000.0
 1960,Congo,COG,18.34,1396.0,1018000.0
 1961,Congo,COG,17.94,1251.0,1043000.0
 1962,Congo,COG,17.540000000000006,1506.0,1069000.0
@@ -3022,6 +3015,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Congo,COG,,,5111000.0
 2018,Congo,COG,,,5244000.0
 2019,Congo,COG,,,5381000.0
+1959,Cook Islands,COK,11.89,,18000.0
 1960,Cook Islands,COK,11.1,,18000.0
 1961,Cook Islands,COK,10.32,,18000.0
 1962,Cook Islands,COK,9.58,,18000.0
@@ -3082,6 +3076,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cook Islands,COK,,,18000.0
 2018,Cook Islands,COK,,,18000.0
 2019,Cook Islands,COK,,,18000.0
+1959,Costa Rica,CRI,,3683.0,1283000.0
 1960,Costa Rica,CRI,,3823.0,1331000.0
 1961,Costa Rica,CRI,,3875.0,1381000.0
 1962,Costa Rica,CRI,,4031.0,1433000.0
@@ -3142,6 +3137,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Costa Rica,CRI,,,4950000.0
 2018,Costa Rica,CRI,,,4999000.0
 2019,Costa Rica,CRI,,,5048000.0
+1959,Cote d'Ivoire,CIV,32.47,1964.0,3387000.0
 1960,Cote d'Ivoire,CIV,31.64,2070.0,3504000.0
 1961,Cote d'Ivoire,CIV,30.83,2042.0,3632000.0
 1962,Cote d'Ivoire,CIV,30.04,2199.0,3771000.0
@@ -3202,6 +3198,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cote d'Ivoire,CIV,,,24437000.0
 2018,Cote d'Ivoire,CIV,,,25069000.0
 2019,Cote d'Ivoire,CIV,,,25717000.0
+1959,Croatia,HRV,,5322.0,4162000.0
 1960,Croatia,HRV,6.8798,5812.0,4193000.0
 1961,Croatia,HRV,,6199.0,4223000.0
 1962,Croatia,HRV,,6320.0,4251000.0
@@ -3262,6 +3259,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Croatia,HRV,,,4183000.0
 2018,Croatia,HRV,,,4156000.0
 2019,Croatia,HRV,,,4130000.0
+1959,Cuba,CUB,,4378.0,7005000.0
 1960,Cuba,CUB,,4360.0,7141000.0
 1961,Cuba,CUB,,4468.0,7291000.0
 1962,Cuba,CUB,5.050000000000002,4332.0,7454000.0
@@ -3326,6 +3324,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cuba,CUB,,,11339000.0
 2018,Cuba,CUB,,,11338000.0
 2019,Cuba,CUB,,,11333000.0
+1959,Curacao,CUW,5.9095,,125000.0
 1960,Curacao,CUW,5.659700000000001,,127000.0
 1961,Curacao,CUW,5.441400000000002,,128000.0
 1962,Curacao,CUW,5.2461,,130000.0
@@ -3386,6 +3385,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Curacao,CUW,,,162000.0
 2018,Curacao,CUW,,,163000.0
 2019,Curacao,CUW,,,163000.0
+1959,Cyprus,CYP,,4814.0,567000.0
 1960,Cyprus,CYP,5.7302,4525.0,573000.0
 1961,Cyprus,CYP,,5092.0,576000.0
 1962,Cyprus,CYP,,6056.0,578000.0
@@ -3446,6 +3446,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Cyprus,CYP,,,1180000.0
 2018,Cyprus,CYP,,,1189000.0
 2019,Cyprus,CYP,,,1199000.0
+1959,Czech Republic,CZE,2.9610000000000003,,9548000.0
 1960,Czech Republic,CZE,2.84,,9590000.0
 1961,Czech Republic,CZE,2.781,,9638000.0
 1962,Czech Republic,CZE,3.008,,9691000.0
@@ -3506,6 +3507,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Czech Republic,CZE,,,10641000.0
 2018,Czech Republic,CZE,,,10666000.0
 2019,Czech Republic,CZE,,,10689000.0
+1959,Czechoslovakia,OWID_CZS,,8916.0,
 1960,Czechoslovakia,OWID_CZS,,9551.0,
 1961,Czechoslovakia,OWID_CZS,,9864.0,
 1962,Czechoslovakia,OWID_CZS,,9963.0,
@@ -3563,6 +3565,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Czechoslovakia,OWID_CZS,,28205.0,
 2015,Czechoslovakia,OWID_CZS,,29361.0,
 2016,Czechoslovakia,OWID_CZS,,30118.0,
+1959,Democratic Republic of Congo,COD,,2194.0,14872000.0
 1960,Democratic Republic of Congo,COD,27.698300000000003,2119.0,15248000.0
 1961,Democratic Republic of Congo,COD,,1755.0,15638000.0
 1962,Democratic Republic of Congo,COD,,2211.0,16041000.0
@@ -3623,6 +3626,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Democratic Republic of Congo,COD,,,81399000.0
 2018,Democratic Republic of Congo,COD,,,84068000.0
 2019,Democratic Republic of Congo,COD,,,86791000.0
+1959,Denmark,DNK,2.5500000000000003,12056.0,4551000.0
 1960,Denmark,DNK,2.5,12053.0,4581000.0
 1961,Denmark,DNK,2.45,12785.0,4614000.0
 1962,Denmark,DNK,2.3800000000000003,13520.0,4649000.0
@@ -3683,6 +3687,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Denmark,DNK,,,5732000.0
 2018,Denmark,DNK,,,5752000.0
 2019,Denmark,DNK,,,5772000.0
+1959,Djibouti,DJI,,4856.0,80000.0
 1960,Djibouti,DJI,,5027.0,84000.0
 1961,Djibouti,DJI,,5060.0,89000.0
 1962,Djibouti,DJI,,4990.0,94000.0
@@ -3743,6 +3748,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Djibouti,DJI,,,944000.0
 2018,Djibouti,DJI,,,959000.0
 2019,Djibouti,DJI,,,974000.0
+1959,Dominica,DMA,,3005.0,59000.0
 1960,Dominica,DMA,13.87,3049.0,60000.0
 1961,Dominica,DMA,12.72,2883.0,61000.0
 1962,Dominica,DMA,11.69,3264.0,62000.0
@@ -3803,6 +3809,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Dominica,DMA,,,71000.0
 2018,Dominica,DMA,,,72000.0
 2019,Dominica,DMA,,,72000.0
+1959,Dominican Republic,DOM,14.840000000000002,1933.0,3185000.0
 1960,Dominican Republic,DOM,14.75,2035.0,3294000.0
 1961,Dominican Republic,DOM,14.6,1980.0,3406000.0
 1962,Dominican Republic,DOM,14.43,2151.0,3521000.0
@@ -3863,6 +3870,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Dominican Republic,DOM,,,10513000.0
 2018,Dominican Republic,DOM,,,10627000.0
 2019,Dominican Republic,DOM,,,10739000.0
+1959,East Asia,,,1394.0,
 1960,East Asia,,,1419.0,
 1961,East Asia,,,1411.0,
 1962,East Asia,,,1465.0,
@@ -3920,6 +3928,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,East Asia,,,9710.0,
 2015,East Asia,,,9998.0,
 2016,East Asia,,,10287.0,
+1959,Eastern Europe,,,6502.0,
 1960,Eastern Europe,,,7050.0,
 1961,Eastern Europe,,,7414.0,
 1962,Eastern Europe,,,7576.0,
@@ -3977,6 +3986,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Eastern Europe,,,19129.0,
 2015,Eastern Europe,,,19187.0,
 2016,Eastern Europe,,,19355.0,
+1959,Ecuador,ECU,18.36,2839.0,4418000.0
 1960,Ecuador,ECU,17.830000000000005,2926.0,4544000.0
 1961,Ecuador,ECU,17.32,2908.0,4674000.0
 1962,Ecuador,ECU,16.84,2964.0,4809000.0
@@ -4037,6 +4047,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Ecuador,ECU,,,16785000.0
 2018,Ecuador,ECU,,,17084000.0
 2019,Ecuador,ECU,,,17374000.0
+1959,Egypt,EGY,32.27,1618.0,25913000.0
 1960,Egypt,EGY,31.32,1659.0,26633000.0
 1961,Egypt,EGY,30.34,1728.0,27366000.0
 1962,Egypt,EGY,29.34,1804.0,28112000.0
@@ -4096,15 +4107,12 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2016,Egypt,EGY,2.28,11430.0,94447000.0
 1,Egypt,EGY,,1225.0,
 730,Egypt,EGY,,1050.0,
-1000,Egypt,EGY,,1120.0,
 1150,Egypt,EGY,,1155.0,
 1280,Egypt,EGY,,987.0,
-1300,Egypt,EGY,,1068.0,
-1400,Egypt,EGY,,1050.0,
-1500,Egypt,EGY,,1190.0,
 2017,Egypt,EGY,,,96443000.0
 2018,Egypt,EGY,,,98424000.0
 2019,Egypt,EGY,,,100388000.0
+1959,El Salvador,SLV,18.95,1564.0,2691000.0
 1960,El Salvador,SLV,18.58,1526.0,2766000.0
 1961,El Salvador,SLV,18.23,1592.0,2847000.0
 1962,El Salvador,SLV,17.880000000000006,1775.0,2931000.0
@@ -4165,6 +4173,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,El Salvador,SLV,,,6388000.0
 2018,El Salvador,SLV,,,6421000.0
 2019,El Salvador,SLV,,,6454000.0
+1959,Equatorial Guinea,GNQ,,1059.0,252000.0
 1960,Equatorial Guinea,GNQ,,1150.0,255000.0
 1961,Equatorial Guinea,GNQ,,1243.0,259000.0
 1962,Equatorial Guinea,GNQ,,1367.0,262000.0
@@ -4225,6 +4234,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Equatorial Guinea,GNQ,,,1262000.0
 2018,Equatorial Guinea,GNQ,,,1309000.0
 2019,Equatorial Guinea,GNQ,,,1356000.0
+1959,Eritrea,ERI,,,983000.0
 1960,Eritrea,ERI,,,1008000.0
 1961,Eritrea,ERI,,,1033000.0
 1962,Eritrea,ERI,,,1060000.0
@@ -4285,6 +4295,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Eritrea,ERI,,,3413000.0
 2018,Eritrea,ERI,,,3453000.0
 2019,Eritrea,ERI,,,3497000.0
+1959,Estonia,EST,4.489,,1204000.0
 1960,Estonia,EST,4.506,,1217000.0
 1961,Estonia,EST,3.987,,1231000.0
 1962,Estonia,EST,3.5880000000000005,,1245000.0
@@ -4345,6 +4356,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Estonia,EST,,,1319000.0
 2018,Estonia,EST,,,1323000.0
 2019,Estonia,EST,,,1326000.0
+1959,Ethiopia,ETH,,727.0,21662000.0
 1960,Ethiopia,ETH,,750.0,22151000.0
 1961,Ethiopia,ETH,,772.0,22671000.0
 1962,Ethiopia,ETH,,788.0,23221000.0
@@ -4405,6 +4417,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Ethiopia,ETH,,,106400000.0
 2018,Ethiopia,ETH,,,109224000.0
 2019,Ethiopia,ETH,,,112079000.0
+1959,Europe,,,,599513024.0
 1960,Europe,,,,605406976.0
 1961,Europe,,,,611433984.0
 1962,Europe,,,,617536000.0
@@ -4462,11 +4475,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Europe,,,,741817984.0
 2015,Europe,,,,743059008.0
 2016,Europe,,,,744268992.0
-1000,Europe,,,,38951888.0
-1300,Europe,,,,82290912.0
-1400,Europe,,,,63762264.0
-1500,Europe,,,,84369664.0
-1600,Europe,,,,105798984.0
 1700,Europe,,,,121197136.0
 1710,Europe,,,,129225232.0
 1720,Europe,,,,135675968.0
@@ -4477,31 +4485,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,Europe,,,,170222960.0
 1780,Europe,,,,178045408.0
 1790,Europe,,,,186443808.0
-10000 BCE,Europe,,,,706597.0
-9000 BCE,Europe,,,,997425.0
-8000 BCE,Europe,,,,1419331.0
-7000 BCE,Europe,,,,2034939.0
-6000 BCE,Europe,,,,2938442.0
-5000 BCE,Europe,,,,4273580.0
-4000 BCE,Europe,,,,6256696.0
-3000 BCE,Europe,,,,9272386.0
-2000 BCE,Europe,,,,14363294.0
-1000 BCE,Europe,,,,22834476.0
-0,Europe,,,,38492728.0
-100,Europe,,,,39600740.0
-200,Europe,,,,40762888.0
-300,Europe,,,,38894400.0
-400,Europe,,,,37083924.0
-500,Europe,,,,32738692.0
-600,Europe,,,,28298920.0
-700,Europe,,,,30122550.0
-800,Europe,,,,32164486.0
-900,Europe,,,,35550032.0
-1100,Europe,,,,46999896.0
-1200,Europe,,,,62684248.0
 2017,Europe,,,,745414976.0
 2018,Europe,,,,746419008.0
 2019,Europe,,,,747182976.0
+1959,Faeroe Islands,FRO,,,34000.0
 1960,Faeroe Islands,FRO,,,35000.0
 1961,Faeroe Islands,FRO,,,35000.0
 1962,Faeroe Islands,FRO,,,36000.0
@@ -4562,6 +4549,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Faeroe Islands,FRO,,,48000.0
 2018,Faeroe Islands,FRO,,,48000.0
 2019,Faeroe Islands,FRO,,,49000.0
+1959,Falkland Islands,FLK,,,2000.0
 1960,Falkland Islands,FLK,,,2000.0
 1961,Falkland Islands,FLK,,,2000.0
 1962,Falkland Islands,FLK,,,2000.0
@@ -4622,6 +4610,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Falkland Islands,FLK,,,3000.0
 2018,Falkland Islands,FLK,,,3000.0
 2019,Falkland Islands,FLK,,,3000.0
+1959,Fiji,FJI,8.15,,381000.0
 1960,Fiji,FJI,7.76,,393000.0
 1961,Fiji,FJI,7.420000000000001,,407000.0
 1962,Fiji,FJI,7.120000000000001,,422000.0
@@ -4682,6 +4671,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Fiji,FJI,,,877000.0
 2018,Fiji,FJI,,,883000.0
 2019,Fiji,FJI,,,890000.0
+1959,Finland,FIN,2.8600000000000003,7804.0,4400000.0
 1960,Finland,FIN,2.68,8428.0,4435000.0
 1961,Finland,FIN,2.52,9173.0,4468000.0
 1962,Finland,FIN,2.3800000000000003,9419.0,4499000.0
@@ -4739,13 +4729,13 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Finland,FIN,0.25,37943.0,5461000.0
 2015,Finland,FIN,0.24,37920.0,5481000.0
 2016,Finland,FIN,0.23,38335.0,5498000.0
-1600,Finland,FIN,,812.0,
 1650,Finland,FIN,,850.0,
 1700,Finland,FIN,,907.0,
 1750,Finland,FIN,,1013.0,
 2017,Finland,FIN,,,5511000.0
 2018,Finland,FIN,,,5523000.0
 2019,Finland,FIN,,,5532000.0
+1959,Former USSR,,,7705.0,
 1960,Former USSR,,,8386.0,
 1961,Former USSR,,,8815.0,
 1962,Former USSR,,,9012.0,
@@ -4803,6 +4793,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Former USSR,,,18197.0,
 2015,Former USSR,,,17953.0,
 2016,Former USSR,,,18105.0,
+1959,Former Yugoslavia,,,1985.0,
 1960,Former Yugoslavia,,,2118.0,
 1961,Former Yugoslavia,,,2219.0,
 1962,Former Yugoslavia,,,2275.0,
@@ -4860,6 +4851,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Former Yugoslavia,,,15524.0,
 2015,Former Yugoslavia,,,15888.0,
 2016,Former Yugoslavia,,,16361.0,
+1959,France,FRA,3.03,9748.0,45138000.0
 1960,France,FRA,2.85,10284.0,45673000.0
 1961,France,FRA,2.7,10735.0,46267000.0
 1962,France,FRA,2.5700000000000003,11343.0,46907000.0
@@ -4938,7 +4930,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1297,France,FRA,,1026.0,
 1298,France,FRA,,1067.0,
 1299,France,FRA,,1107.0,
-1300,France,FRA,,1134.0,
 1301,France,FRA,,1161.0,
 1302,France,FRA,,1202.0,
 1303,France,FRA,,1229.0,
@@ -5038,7 +5029,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1397,France,FRA,,1485.0,
 1398,France,FRA,,1485.0,
 1399,France,FRA,,1472.0,
-1400,France,FRA,,1431.0,
 1401,France,FRA,,1418.0,
 1402,France,FRA,,1404.0,
 1403,France,FRA,,1391.0,
@@ -5138,7 +5128,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1497,France,FRA,,1377.0,
 1498,France,FRA,,1377.0,
 1499,France,FRA,,1364.0,
-1500,France,FRA,,1350.0,
 1501,France,FRA,,1364.0,
 1502,France,FRA,,1350.0,
 1503,France,FRA,,1337.0,
@@ -5238,7 +5227,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1597,France,FRA,,1296.0,
 1598,France,FRA,,1296.0,
 1599,France,FRA,,1283.0,
-1600,France,FRA,,1283.0,
 1601,France,FRA,,1296.0,
 1602,France,FRA,,1296.0,
 1603,France,FRA,,1296.0,
@@ -5431,6 +5419,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,France,FRA,,,64843000.0
 2018,France,FRA,,,64991000.0
 2019,France,FRA,,,65130000.0
+1959,French Guiana,GUF,,,31000.0
 1960,French Guiana,GUF,,,32000.0
 1961,French Guiana,GUF,,,33000.0
 1962,French Guiana,GUF,,,34000.0
@@ -5491,6 +5480,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,French Guiana,GUF,,,275000.0
 2018,French Guiana,GUF,,,283000.0
 2019,French Guiana,GUF,,,291000.0
+1959,French Polynesia,PYF,,,76000.0
 1960,French Polynesia,PYF,,,78000.0
 1961,French Polynesia,PYF,,,81000.0
 1962,French Polynesia,PYF,,,84000.0
@@ -5551,6 +5541,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,French Polynesia,PYF,,,276000.0
 2018,French Polynesia,PYF,,,278000.0
 2019,French Polynesia,PYF,,,279000.0
+1959,Gabon,GAB,,5173.0,497000.0
 1960,Gabon,GAB,,5342.0,501000.0
 1961,Gabon,GAB,,5702.0,506000.0
 1962,Gabon,GAB,,5617.0,511000.0
@@ -5611,6 +5602,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Gabon,GAB,,,2065000.0
 2018,Gabon,GAB,,,2119000.0
 2019,Gabon,GAB,,,2173000.0
+1959,Gambia,GMB,36.64,1944.0,358000.0
 1960,Gambia,GMB,35.95,1994.0,365000.0
 1961,Gambia,GMB,35.33000000000001,2259.0,372000.0
 1962,Gambia,GMB,34.760000000000005,2148.0,380000.0
@@ -5671,6 +5663,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Gambia,GMB,,,2214000.0
 2018,Gambia,GMB,,,2280000.0
 2019,Gambia,GMB,,,2348000.0
+1959,Georgia,GEO,,,3941000.0
 1960,Georgia,GEO,,,4008000.0
 1961,Georgia,GEO,,,4077000.0
 1962,Georgia,GEO,,,4149000.0
@@ -5731,6 +5724,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Georgia,GEO,,,4009000.0
 2018,Georgia,GEO,,,4003000.0
 2019,Georgia,GEO,,,3997000.0
+1959,Germany,DEU,,10875.0,72955000.0
 1960,Germany,DEU,4.0339,11587.0,73414000.0
 1961,Germany,DEU,,11776.0,73928000.0
 1962,Germany,DEU,,12144.0,74489000.0
@@ -5788,14 +5782,13 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Germany,DEU,0.39,46038.0,81450000.0
 2015,Germany,DEU,0.39,46426.0,81787000.0
 2016,Germany,DEU,0.38,46841.0,82194000.0
-1500,Germany,DEU,,1113.0,
-1600,Germany,DEU,,784.0,
 1650,Germany,DEU,,920.0,
 1700,Germany,DEU,,912.0,
 1750,Germany,DEU,,1020.0,
 2017,Germany,DEU,,,82658000.0
 2018,Germany,DEU,,,83124000.0
 2019,Germany,DEU,,,83517000.0
+1959,Ghana,GHA,21.200000000000006,2605.0,6435000.0
 1960,Ghana,GHA,20.930000000000003,2753.0,6635000.0
 1961,Ghana,GHA,20.680000000000003,2646.0,6848000.0
 1962,Ghana,GHA,20.480000000000004,2566.0,7072000.0
@@ -5856,6 +5849,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Ghana,GHA,,,29121000.0
 2018,Ghana,GHA,,,29767000.0
 2019,Ghana,GHA,,,30418000.0
+1959,Gibraltar,GIB,,,23000.0
 1960,Gibraltar,GIB,,,23000.0
 1961,Gibraltar,GIB,,,24000.0
 1962,Gibraltar,GIB,,,24000.0
@@ -5916,6 +5910,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Gibraltar,GIB,,,34000.0
 2018,Gibraltar,GIB,,,34000.0
 2019,Gibraltar,GIB,,,34000.0
+1959,Greece,GRC,4.75,4389.0,8229000.0
 1960,Greece,GRC,4.65,4490.0,8274000.0
 1961,Greece,GRC,4.53,4876.0,8314000.0
 1962,Greece,GRC,4.4,4960.0,8351000.0
@@ -5977,6 +5972,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Greece,GRC,,,10569000.0
 2018,Greece,GRC,,,10522000.0
 2019,Greece,GRC,,,10473000.0
+1959,Greenland,GRL,,,30000.0
 1960,Greenland,GRL,,,31000.0
 1961,Greenland,GRL,,,32000.0
 1962,Greenland,GRL,,,34000.0
@@ -6037,6 +6033,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Greenland,GRL,,,56000.0
 2018,Greenland,GRL,,,57000.0
 2019,Greenland,GRL,,,57000.0
+1959,Grenada,GRD,,,88000.0
 1960,Grenada,GRD,,,90000.0
 1961,Grenada,GRD,,,91000.0
 1962,Grenada,GRD,,,92000.0
@@ -6097,6 +6094,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Grenada,GRD,,,111000.0
 2018,Grenada,GRD,,,111000.0
 2019,Grenada,GRD,,,112000.0
+1959,Guadeloupe,GLP,,,268000.0
 1960,Guadeloupe,GLP,,,275000.0
 1961,Guadeloupe,GLP,,,281000.0
 1962,Guadeloupe,GLP,,,287000.0
@@ -6157,6 +6155,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guadeloupe,GLP,,,400000.0
 2018,Guadeloupe,GLP,,,400000.0
 2019,Guadeloupe,GLP,,,400000.0
+1959,Guam,GUM,,,66000.0
 1960,Guam,GUM,,,67000.0
 1961,Guam,GUM,,,68000.0
 1962,Guam,GUM,,,70000.0
@@ -6217,6 +6216,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guam,GUM,,,164000.0
 2018,Guam,GUM,,,166000.0
 2019,Guam,GUM,,,167000.0
+1959,Guatemala,GTM,22.46,2199.0,4088000.0
 1960,Guatemala,GTM,21.980000000000004,2147.0,4211000.0
 1961,Guatemala,GTM,21.51,2212.0,4336000.0
 1962,Guatemala,GTM,21.05,2248.0,4464000.0
@@ -6277,6 +6277,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guatemala,GTM,,,16915000.0
 2018,Guatemala,GTM,,,17248000.0
 2019,Guatemala,GTM,,,17581000.0
+1959,Guinea,GIN,35.41000000000001,1401.0,3438000.0
 1960,Guinea,GIN,35.17,1419.0,3494000.0
 1961,Guinea,GIN,34.9,1469.0,3552000.0
 1962,Guinea,GIN,34.65,1532.0,3611000.0
@@ -6337,6 +6338,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guinea,GIN,,,12068000.0
 2018,Guinea,GIN,,,12414000.0
 2019,Guinea,GIN,,,12771000.0
+1959,Guinea-Bissau,GNB,32.0576,803.0,609000.0
 1960,Guinea-Bissau,GNB,31.814100000000003,841.0,616000.0
 1961,Guinea-Bissau,GNB,31.554,893.0,623000.0
 1962,Guinea-Bissau,GNB,31.2738,944.0,629000.0
@@ -6397,6 +6399,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guinea-Bissau,GNB,,,1828000.0
 2018,Guinea-Bissau,GNB,,,1874000.0
 2019,Guinea-Bissau,GNB,,,1921000.0
+1959,Guyana,GUY,9.68,,554000.0
 1960,Guyana,GUY,9.24,,572000.0
 1961,Guyana,GUY,8.840000000000002,,589000.0
 1962,Guyana,GUY,8.51,,606000.0
@@ -6457,6 +6460,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Guyana,GUY,,,775000.0
 2018,Guyana,GUY,,,779000.0
 2019,Guyana,GUY,,,783000.0
+1959,Haiti,HTI,29.06,2577.0,3792000.0
 1960,Haiti,HTI,28.59,2690.0,3866000.0
 1961,Haiti,HTI,28.130000000000006,2530.0,3942000.0
 1962,Haiti,HTI,27.710000000000004,2717.0,4019000.0
@@ -6517,6 +6521,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Haiti,HTI,,,10982000.0
 2018,Haiti,HTI,,,11123000.0
 2019,Haiti,HTI,,,11263000.0
+1959,Honduras,HND,21.82,1905.0,1982000.0
 1960,Honduras,HND,21.08,1972.0,2039000.0
 1961,Honduras,HND,20.380000000000006,2021.0,2096000.0
 1962,Honduras,HND,19.71,2114.0,2156000.0
@@ -6577,6 +6582,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Honduras,HND,,,9429000.0
 2018,Honduras,HND,,,9588000.0
 2019,Honduras,HND,,,9746000.0
+1959,Hong Kong,HKG,,4873.0,2941000.0
 1960,Hong Kong,HKG,,5002.0,3046000.0
 1961,Hong Kong,HKG,,5012.0,3143000.0
 1962,Hong Kong,HKG,,5693.0,3230000.0
@@ -6637,6 +6643,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Hong Kong,HKG,,,7306000.0
 2018,Hong Kong,HKG,,,7372000.0
 2019,Hong Kong,HKG,,,7436000.0
+1959,Hungary,HUN,5.74,4246.0,9973000.0
 1960,Hungary,HUN,5.36,4507.0,10001000.0
 1961,Hungary,HUN,5.1000000000000005,4776.0,10030000.0
 1962,Hungary,HUN,4.94,5024.0,10063000.0
@@ -6697,6 +6704,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Hungary,HUN,,,9730000.0
 2018,Hungary,HUN,,,9708000.0
 2019,Hungary,HUN,,,9685000.0
+1959,Iceland,ISL,2.19,11521.0,172000.0
 1960,Iceland,ISL,2.14,11314.0,176000.0
 1961,Iceland,ISL,2.1100000000000003,11509.0,179000.0
 1962,Iceland,ISL,2.07,11935.0,183000.0
@@ -6757,6 +6765,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Iceland,ISL,,,334000.0
 2018,Iceland,ISL,,,337000.0
 2019,Iceland,ISL,,,339000.0
+1959,India,IND,24.980000000000004,1353.0,441799008.0
 1960,India,IND,24.57,1403.0,450548000.0
 1961,India,IND,24.19,1378.0,459641984.0
 1962,India,IND,23.83,1356.0,469076992.0
@@ -6814,13 +6823,13 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,India,IND,4.7700000000000005,5312.0,1295601024.0
 2015,India,IND,4.5200000000000005,5639.0,1310151936.0
 2016,India,IND,4.3,5961.0,1324516992.0
-1600,India,IND,,1305.0,
 1650,India,IND,,1228.0,
 1700,India,IND,,1200.0,
 1750,India,IND,,1103.0,
 2017,India,IND,,,1338676992.0
 2018,India,IND,,,1352642048.0
 2019,India,IND,,,1366418048.0
+1959,Indonesia,IDN,22.790000000000006,1437.0,85478000.0
 1960,Indonesia,IDN,22.19,1475.0,87751000.0
 1961,Indonesia,IDN,21.6,1577.0,90098000.0
 1962,Indonesia,IDN,21.040000000000006,1422.0,92518000.0
@@ -6881,6 +6890,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Indonesia,IDN,,,264651008.0
 2018,Indonesia,IDN,,,267671008.0
 2019,Indonesia,IDN,,,270625984.0
+1959,Iran,IRN,,3003.0,21351000.0
 1960,Iran,IRN,,3198.0,21907000.0
 1961,Iran,IRN,,3368.0,22480000.0
 1962,Iran,IRN,,3333.0,23071000.0
@@ -6942,6 +6952,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Iran,IRN,,,80674000.0
 2018,Iran,IRN,,,81800000.0
 2019,Iran,IRN,,,82914000.0
+1959,Iraq,IRQ,20.65,5547.0,7116000.0
 1960,Iraq,IRQ,19.44,6053.0,7290000.0
 1961,Iraq,IRQ,18.32,6597.0,7475000.0
 1962,Iraq,IRQ,17.28,6764.0,7674000.0
@@ -7001,11 +7012,11 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2016,Iraq,IRQ,3.12,13976.0,36611000.0
 1,Iraq,IRQ,,1225.0,
 730,Iraq,IRQ,,1330.0,
-1000,Iraq,IRQ,,1155.0,
 1150,Iraq,IRQ,,1190.0,
 2017,Iraq,IRQ,,,37553000.0
 2018,Iraq,IRQ,,,38434000.0
 2019,Iraq,IRQ,,,39310000.0
+1959,Ireland,IRL,3.68,5596.0,2801000.0
 1960,Ireland,IRL,3.5200000000000005,5809.0,2791000.0
 1961,Ireland,IRL,3.38,6174.0,2789000.0
 1962,Ireland,IRL,3.25,6462.0,2792000.0
@@ -7066,6 +7077,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Ireland,IRL,,,4753000.0
 2018,Ireland,IRL,,,4819000.0
 2019,Ireland,IRL,,,4882000.0
+1959,Isle of Man,IMN,,,49000.0
 1960,Isle of Man,IMN,,,48000.0
 1961,Isle of Man,IMN,,,48000.0
 1962,Isle of Man,IMN,,,48000.0
@@ -7126,6 +7138,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Isle of Man,IMN,,,84000.0
 2018,Isle of Man,IMN,,,84000.0
 2019,Isle of Man,IMN,,,85000.0
+1959,Israel,ISR,4.006,6678.0,1983000.0
 1960,Israel,ISR,4.006,6629.0,2060000.0
 1961,Israel,ISR,,7197.0,2145000.0
 1962,Israel,ISR,,7676.0,2234000.0
@@ -7187,6 +7200,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Israel,ISR,,,8244000.0
 2018,Israel,ISR,,,8382000.0
 2019,Israel,ISR,,,8519000.0
+1959,Italy,ITA,5.3900000000000015,6722.0,49388000.0
 1960,Italy,ITA,5.19,7067.0,49700000.0
 1961,Italy,ITA,4.98,7688.0,50052000.0
 1962,Italy,ITA,4.760000000000002,8349.0,50442000.0
@@ -7245,18 +7259,15 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2015,Italy,ITA,0.34,34673.0,60578000.0
 2016,Italy,ITA,0.33,34989.0,60663000.0
 1,Italy,ITA,,1546.0,
-1300,Italy,ITA,,1579.0,
 1348,Italy,ITA,,1477.0,
-1400,Italy,ITA,,1706.0,
-1500,Italy,ITA,,1494.0,
 1570,Italy,ITA,,1422.0,
-1600,Italy,ITA,,1329.0,
 1650,Italy,ITA,,1363.0,
 1700,Italy,ITA,,1439.0,
 1750,Italy,ITA,,1494.0,
 2017,Italy,ITA,,,60674000.0
 2018,Italy,ITA,,,60627000.0
 2019,Italy,ITA,,,60550000.0
+1959,Jamaica,JAM,8.78,4108.0,1609000.0
 1960,Jamaica,JAM,8.4,4178.0,1629000.0
 1961,Jamaica,JAM,8.05,4282.0,1651000.0
 1962,Jamaica,JAM,7.7200000000000015,4334.0,1677000.0
@@ -7317,6 +7328,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Jamaica,JAM,,,2921000.0
 2018,Jamaica,JAM,,,2935000.0
 2019,Jamaica,JAM,,,2948000.0
+1959,Japan,JPN,4.32,4652.0,92782000.0
 1960,Japan,JPN,3.9700000000000006,5185.0,93674000.0
 1961,Japan,JPN,3.620000000000001,5730.0,94561000.0
 1962,Japan,JPN,3.29,6261.0,95459000.0
@@ -7378,13 +7390,13 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1150,Japan,JPN,,694.0,
 1280,Japan,JPN,,703.0,
 1450,Japan,JPN,,703.0,
-1600,Japan,JPN,,766.0,
 1650,Japan,JPN,,746.0,
 1700,Japan,JPN,,840.0,
 1750,Japan,JPN,,799.0,
 2017,Japan,JPN,,,127503000.0
 2018,Japan,JPN,,,127202000.0
 2019,Japan,JPN,,,126860000.0
+1959,Jordan,JOR,16.64,2631.0,886000.0
 1960,Jordan,JOR,15.67,2623.0,933000.0
 1961,Jordan,JOR,14.75,3083.0,974000.0
 1962,Jordan,JOR,13.9,3084.0,1011000.0
@@ -7446,6 +7458,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Jordan,JOR,,,9786000.0
 2018,Jordan,JOR,,,9965000.0
 2019,Jordan,JOR,,,10102000.0
+1959,Kazakhstan,KAZ,,,9519000.0
 1960,Kazakhstan,KAZ,,,9935000.0
 1961,Kazakhstan,KAZ,,,10349000.0
 1962,Kazakhstan,KAZ,,,10757000.0
@@ -7506,6 +7519,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Kazakhstan,KAZ,,,18080000.0
 2018,Kazakhstan,KAZ,,,18320000.0
 2019,Kazakhstan,KAZ,,,18551000.0
+1959,Kenya,KEN,20.77,1416.0,7874000.0
 1960,Kenya,KEN,19.840000000000003,1396.0,8120000.0
 1961,Kenya,KEN,19.02,1360.0,8378000.0
 1962,Kenya,KEN,18.290000000000006,1398.0,8647000.0
@@ -7566,6 +7580,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Kenya,KEN,,,50221000.0
 2018,Kenya,KEN,,,51393000.0
 2019,Kenya,KEN,,,52574000.0
+1959,Kiribati,KIR,,,40000.0
 1960,Kiribati,KIR,,,41000.0
 1961,Kiribati,KIR,,,42000.0
 1962,Kiribati,KIR,,,43000.0
@@ -7626,6 +7641,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Kiribati,KIR,,,114000.0
 2018,Kiribati,KIR,,,116000.0
 2019,Kiribati,KIR,,,118000.0
+1959,Kuwait,KWT,15.730000000000002,,243000.0
 1960,Kuwait,KWT,14.65,,269000.0
 1961,Kuwait,KWT,13.630000000000004,,301000.0
 1962,Kuwait,KWT,12.66,,337000.0
@@ -7686,6 +7702,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Kuwait,KWT,,,4056000.0
 2018,Kuwait,KWT,,,4137000.0
 2019,Kuwait,KWT,,,4207000.0
+1959,Kyrgyzstan,KGZ,,,2105000.0
 1960,Kyrgyzstan,KGZ,,,2170000.0
 1961,Kyrgyzstan,KGZ,,,2242000.0
 1962,Kyrgyzstan,KGZ,,,2319000.0
@@ -7746,6 +7763,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Kyrgyzstan,KGZ,,,6190000.0
 2018,Kyrgyzstan,KGZ,,,6304000.0
 2019,Kyrgyzstan,KGZ,,,6416000.0
+1959,Laos,LAO,,682.0,2073000.0
 1960,Laos,LAO,25.147,688.0,2121000.0
 1961,Laos,LAO,,695.0,2170000.0
 1962,Laos,LAO,,701.0,2221000.0
@@ -7806,6 +7824,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Laos,LAO,,,6953000.0
 2018,Laos,LAO,,,7061000.0
 2019,Laos,LAO,,,7169000.0
+1959,Latin America,,,3512.0,214566000.0
 1960,Latin America,,,3621.0,220470000.0
 1961,Latin America,,,3762.0,226568000.0
 1962,Latin America,,,3860.0,232848992.0
@@ -7863,11 +7882,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Latin America,,,14140.0,617596032.0
 2015,Latin America,,,14400.0,623934016.0
 2016,Latin America,,,13470.0,630145024.0
-1000,Latin America,,,,24329090.0
-1300,Latin America,,,,33126608.0
-1400,Latin America,,,,36136712.0
-1500,Latin America,,,,39219552.0
-1600,Latin America,,,,8808243.0
 1700,Latin America,,,,12259440.0
 1710,Latin America,,,,12869362.0
 1720,Latin America,,,,13503017.0
@@ -7878,31 +7892,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,Latin America,,,,17185104.0
 1780,Latin America,,,,18086046.0
 1790,Latin America,,,,19058212.0
-10000 BCE,Latin America,,,,278282.0
-9000 BCE,Latin America,,,,362548.0
-8000 BCE,Latin America,,,,489240.0
-7000 BCE,Latin America,,,,679625.0
-6000 BCE,Latin America,,,,967278.0
-5000 BCE,Latin America,,,,1405425.0
-4000 BCE,Latin America,,,,2093001.0
-3000 BCE,Latin America,,,,3164199.0
-2000 BCE,Latin America,,,,4850915.0
-1000 BCE,Latin America,,,,7579675.0
-0,Latin America,,,,11981719.0
-100,Latin America,,,,12694655.0
-200,Latin America,,,,13450847.0
-300,Latin America,,,,14253298.0
-400,Latin America,,,,15105313.0
-500,Latin America,,,,16010564.0
-600,Latin America,,,,16973172.0
-700,Latin America,,,,17997828.0
-800,Latin America,,,,19089954.0
-900,Latin America,,,,21702980.0
-1100,Latin America,,,,27235356.0
-1200,Latin America,,,,30162988.0
 2017,Latin America,,,,636233024.0
 2018,Latin America,,,,642217024.0
 2019,Latin America,,,,648121024.0
+1959,Latvia,LVA,4.522,,2102000.0
 1960,Latvia,LVA,3.903000000000001,,2130000.0
 1961,Latvia,LVA,3.465,,2158000.0
 1962,Latvia,LVA,3.65,,2186000.0
@@ -7963,6 +7956,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Latvia,LVA,,,1951000.0
 2018,Latvia,LVA,,,1928000.0
 2019,Latvia,LVA,,,1907000.0
+1959,Lebanon,LBN,7.96,9143.0,1747000.0
 1960,Lebanon,LBN,7.7200000000000015,9210.0,1805000.0
 1961,Lebanon,LBN,7.5,9633.0,1865000.0
 1962,Lebanon,LBN,7.290000000000001,9814.0,1925000.0
@@ -8023,6 +8017,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Lebanon,LBN,,,6819000.0
 2018,Lebanon,LBN,,,6859000.0
 2019,Lebanon,LBN,,,6856000.0
+1959,Lesotho,LSO,19.4,487.0,822000.0
 1960,Lesotho,LSO,19.180000000000003,514.0,837000.0
 1961,Lesotho,LSO,19.06,499.0,853000.0
 1962,Lesotho,LSO,19.01,593.0,869000.0
@@ -8083,6 +8078,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Lesotho,LSO,,,2092000.0
 2018,Lesotho,LSO,,,2108000.0
 2019,Lesotho,LSO,,,2125000.0
+1959,Liberia,LBR,31.510000000000005,883.0,1096000.0
 1960,Liberia,LBR,31.55,887.0,1119000.0
 1961,Liberia,LBR,31.54,885.0,1142000.0
 1962,Liberia,LBR,31.460000000000004,872.0,1167000.0
@@ -8143,6 +8139,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Liberia,LBR,,,4702000.0
 2018,Liberia,LBR,,,4819000.0
 2019,Liberia,LBR,,,4937000.0
+1959,Libya,LBY,29.710000000000004,5105.0,1402000.0
 1960,Libya,LBY,27.84,6353.0,1448000.0
 1961,Libya,LBY,26.06,6721.0,1498000.0
 1962,Libya,LBY,24.39,8587.0,1551000.0
@@ -8203,6 +8200,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Libya,LBY,,,6581000.0
 2018,Libya,LBY,,,6679000.0
 2019,Libya,LBY,,,6777000.0
+1959,Liechtenstein,LIE,,,16000.0
 1960,Liechtenstein,LIE,,,17000.0
 1961,Liechtenstein,LIE,,,17000.0
 1962,Liechtenstein,LIE,,,17000.0
@@ -8263,6 +8261,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Liechtenstein,LIE,,,38000.0
 2018,Liechtenstein,LIE,,,38000.0
 2019,Liechtenstein,LIE,,,38000.0
+1959,Lithuania,LTU,5.5229,,2736000.0
 1960,Lithuania,LTU,4.9967000000000015,,2770000.0
 1961,Lithuania,LTU,4.5463000000000005,,2807000.0
 1962,Lithuania,LTU,4.1571,,2846000.0
@@ -8323,6 +8322,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Lithuania,LTU,,,2845000.0
 2018,Lithuania,LTU,,,2801000.0
 2019,Lithuania,LTU,,,2760000.0
+1959,Luxembourg,LUX,,16506.0,312000.0
 1960,Luxembourg,LUX,3.61,15880.0,315000.0
 1961,Luxembourg,LUX,3.43,15968.0,317000.0
 1962,Luxembourg,LUX,3.2700000000000005,16791.0,321000.0
@@ -8383,6 +8383,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Luxembourg,LUX,,,592000.0
 2018,Luxembourg,LUX,,,604000.0
 2019,Luxembourg,LUX,,,616000.0
+1959,Macao,MAC,,,168000.0
 1960,Macao,MAC,,,168000.0
 1961,Macao,MAC,,,170000.0
 1962,Macao,MAC,,,176000.0
@@ -8443,6 +8444,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Macao,MAC,,,623000.0
 2018,Macao,MAC,,,632000.0
 2019,Macao,MAC,,,640000.0
+1959,Macedonia,MKD,,2925.0,1470000.0
 1960,Macedonia,MKD,10.9524,3103.0,1489000.0
 1961,Macedonia,MKD,,3144.0,1508000.0
 1962,Macedonia,MKD,,3172.0,1527000.0
@@ -8503,6 +8505,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Macedonia,MKD,,,2082000.0
 2018,Macedonia,MKD,,,2083000.0
 2019,Macedonia,MKD,,,2083000.0
+1959,Madagascar,MDG,,1127.0,4980000.0
 1960,Madagascar,MDG,,1121.0,5099000.0
 1961,Madagascar,MDG,,1123.0,5224000.0
 1962,Madagascar,MDG,,1207.0,5352000.0
@@ -8563,6 +8566,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Madagascar,MDG,,,25571000.0
 2018,Madagascar,MDG,,,26262000.0
 2019,Madagascar,MDG,,,26969000.0
+1959,Malawi,MWI,,1149.0,3576000.0
 1960,Malawi,MWI,,1092.0,3660000.0
 1961,Malawi,MWI,36.044,1006.0,3748000.0
 1962,Malawi,MWI,35.7903,1093.0,3839000.0
@@ -8623,6 +8627,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Malawi,MWI,,,17670000.0
 2018,Malawi,MWI,,,18143000.0
 2019,Malawi,MWI,,,18629000.0
+1959,Malaysia,MYS,9.98,2468.0,7910000.0
 1960,Malaysia,MYS,9.33,2480.0,8156000.0
 1961,Malaysia,MYS,8.700000000000001,2632.0,8418000.0
 1962,Malaysia,MYS,8.120000000000001,2741.0,8692000.0
@@ -8683,6 +8688,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Malaysia,MYS,,,31105000.0
 2018,Malaysia,MYS,,,31528000.0
 2019,Malaysia,MYS,,,31950000.0
+1959,Maldives,MDV,,,88000.0
 1960,Maldives,MDV,,,90000.0
 1961,Maldives,MDV,,,92000.0
 1962,Maldives,MDV,33.64,,95000.0
@@ -8743,6 +8749,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Maldives,MDV,,,496000.0
 2018,Maldives,MDV,,,516000.0
 2019,Maldives,MDV,,,531000.0
+1959,Mali,MLI,,1186.0,5205000.0
 1960,Mali,MLI,44.77080000000001,1164.0,5264000.0
 1961,Mali,MLI,44.6281,1154.0,5322000.0
 1962,Mali,MLI,44.4575,1144.0,5381000.0
@@ -8803,6 +8810,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mali,MLI,,,18512000.0
 2018,Mali,MLI,,,19078000.0
 2019,Mali,MLI,,,19658000.0
+1959,Malta,MLT,4.2700000000000005,2275.0,312000.0
 1960,Malta,MLT,4.07,2381.0,313000.0
 1961,Malta,MLT,3.91,2358.0,314000.0
 1962,Malta,MLT,3.78,2258.0,317000.0
@@ -8863,6 +8871,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Malta,MLT,,,438000.0
 2018,Malta,MLT,,,439000.0
 2019,Malta,MLT,,,440000.0
+1959,Marshall Islands,MHL,13.35,,14000.0
 1960,Marshall Islands,MHL,12.79,,15000.0
 1961,Marshall Islands,MHL,12.27,,15000.0
 1962,Marshall Islands,MHL,11.79,,16000.0
@@ -8923,6 +8932,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Marshall Islands,MHL,,,58000.0
 2018,Marshall Islands,MHL,,,58000.0
 2019,Marshall Islands,MHL,,,59000.0
+1959,Martinique,MTQ,,,274000.0
 1960,Martinique,MTQ,,,282000.0
 1961,Martinique,MTQ,,,288000.0
 1962,Martinique,MTQ,,,295000.0
@@ -8983,6 +8993,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Martinique,MTQ,,,376000.0
 2018,Martinique,MTQ,,,376000.0
 2019,Martinique,MTQ,,,376000.0
+1959,Mauritania,MRT,25.85,973.0,826000.0
 1960,Mauritania,MRT,25.17,1037.0,850000.0
 1961,Mauritania,MRT,24.49,1124.0,876000.0
 1962,Mauritania,MRT,23.840000000000003,1127.0,902000.0
@@ -9043,6 +9054,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mauritania,MRT,,,4283000.0
 2018,Mauritania,MRT,,,4403000.0
 2019,Mauritania,MRT,,,4526000.0
+1959,Mauritius,MUS,10.61,3513.0,641000.0
 1960,Mauritius,MUS,10.3,3465.0,660000.0
 1961,Mauritius,MUS,9.86,4219.0,679000.0
 1962,Mauritius,MUS,9.31,4373.0,698000.0
@@ -9103,6 +9115,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mauritius,MUS,,,1264000.0
 2018,Mauritius,MUS,,,1267000.0
 2019,Mauritius,MUS,,,1270000.0
+1959,Mayotte,MYT,,,23000.0
 1960,Mayotte,MYT,,,24000.0
 1961,Mayotte,MYT,,,25000.0
 1962,Mayotte,MYT,,,27000.0
@@ -9163,6 +9176,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mayotte,MYT,,,253000.0
 2018,Mayotte,MYT,,,260000.0
 2019,Mayotte,MYT,,,266000.0
+1959,Mexico,MEX,15.81,3259.0,36612000.0
 1960,Mexico,MEX,15.080000000000002,3380.0,37772000.0
 1961,Mexico,MEX,14.44,3525.0,38966000.0
 1962,Mexico,MEX,13.89,3657.0,40195000.0
@@ -9227,7 +9241,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1597,Mexico,MEX,,558.0,
 1598,Mexico,MEX,,559.0,
 1599,Mexico,MEX,,578.0,
-1600,Mexico,MEX,,602.0,
 1601,Mexico,MEX,,612.0,
 1602,Mexico,MEX,,620.0,
 1603,Mexico,MEX,,630.0,
@@ -9430,6 +9443,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mexico,MEX,,,124777000.0
 2018,Mexico,MEX,,,126191000.0
 2019,Mexico,MEX,,,127576000.0
+1959,Micronesia (country),FSM,,,43000.0
 1960,Micronesia (country),FSM,,,45000.0
 1961,Micronesia (country),FSM,,,46000.0
 1962,Micronesia (country),FSM,,,47000.0
@@ -9490,6 +9504,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Micronesia (country),FSM,,,111000.0
 2018,Micronesia (country),FSM,,,113000.0
 2019,Micronesia (country),FSM,,,114000.0
+1959,Moldova,MDA,,,2930000.0
 1960,Moldova,MDA,,,3004000.0
 1961,Moldova,MDA,,,3077000.0
 1962,Moldova,MDA,,,3147000.0
@@ -9550,6 +9565,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Moldova,MDA,,,4060000.0
 2018,Moldova,MDA,,,4052000.0
 2019,Moldova,MDA,,,4043000.0
+1959,Monaco,MCO,,,22000.0
 1960,Monaco,MCO,,,22000.0
 1961,Monaco,MCO,,,23000.0
 1962,Monaco,MCO,,,23000.0
@@ -9610,6 +9626,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Monaco,MCO,,,38000.0
 2018,Monaco,MCO,,,39000.0
 2019,Monaco,MCO,,,39000.0
+1959,Mongolia,MNG,,874.0,931000.0
 1960,Mongolia,MNG,,900.0,956000.0
 1961,Mongolia,MNG,,927.0,982000.0
 1962,Mongolia,MNG,,954.0,1011000.0
@@ -9670,6 +9687,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mongolia,MNG,,,3114000.0
 2018,Mongolia,MNG,,,3170000.0
 2019,Mongolia,MNG,,,3225000.0
+1959,Montenegro,MNE,,3916.0,478000.0
 1960,Montenegro,MNE,,4339.0,487000.0
 1961,Montenegro,MNE,,5200.0,498000.0
 1962,Montenegro,MNE,,5067.0,510000.0
@@ -9730,6 +9748,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Montenegro,MNE,,,628000.0
 2018,Montenegro,MNE,,,628000.0
 2019,Montenegro,MNE,,,628000.0
+1959,Montserrat,MSR,,,12000.0
 1960,Montserrat,MSR,,,12000.0
 1961,Montserrat,MSR,,,12000.0
 1962,Montserrat,MSR,,,12000.0
@@ -9790,6 +9809,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Montserrat,MSR,,,5000.0
 2018,Montserrat,MSR,,,5000.0
 2019,Montserrat,MSR,,,5000.0
+1959,Morocco,MAR,24.200000000000006,2531.0,11951000.0
 1960,Morocco,MAR,23.71,2476.0,12329000.0
 1961,Morocco,MAR,23.22,2500.0,12711000.0
 1962,Morocco,MAR,22.74,2524.0,13095000.0
@@ -9850,6 +9870,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Morocco,MAR,,,35581000.0
 2018,Morocco,MAR,,,36029000.0
 2019,Morocco,MAR,,,36472000.0
+1959,Mozambique,MOZ,,544.0,7036000.0
 1960,Mozambique,MOZ,,546.0,7185000.0
 1961,Mozambique,MOZ,,561.0,7342000.0
 1962,Mozambique,MOZ,27.304,609.0,7507000.0
@@ -9910,6 +9931,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Mozambique,MOZ,,,28649000.0
 2018,Mozambique,MOZ,,,29496000.0
 2019,Mozambique,MOZ,,,30366000.0
+1959,Myanmar,MMR,,777.0,21273000.0
 1960,Myanmar,MMR,24.947000000000006,790.0,21737000.0
 1961,Myanmar,MMR,,795.0,22212000.0
 1962,Myanmar,MMR,,850.0,22698000.0
@@ -9970,6 +9992,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Myanmar,MMR,,,53383000.0
 2018,Myanmar,MMR,,,53708000.0
 2019,Myanmar,MMR,,,54045000.0
+1959,Namibia,NAM,,3698.0,620000.0
 1960,Namibia,NAM,11.604500000000002,3946.0,634000.0
 1961,Namibia,NAM,,3883.0,649000.0
 1962,Namibia,NAM,,4533.0,665000.0
@@ -10030,6 +10053,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Namibia,NAM,,,2403000.0
 2018,Namibia,NAM,,,2448000.0
 2019,Namibia,NAM,,,2495000.0
+1959,Nauru,NRU,,,4000.0
 1960,Nauru,NRU,,,4000.0
 1961,Nauru,NRU,,,5000.0
 1962,Nauru,NRU,,,5000.0
@@ -10090,6 +10114,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Nauru,NRU,,,11000.0
 2018,Nauru,NRU,,,11000.0
 2019,Nauru,NRU,,,11000.0
+1959,Nepal,NPL,32.62,683.0,9945000.0
 1960,Nepal,NPL,32.31,689.0,10105000.0
 1961,Nepal,NPL,31.910000000000004,691.0,10267000.0
 1962,Nepal,NPL,31.44,705.0,10433000.0
@@ -10150,6 +10175,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Nepal,NPL,,,27633000.0
 2018,Nepal,NPL,,,28096000.0
 2019,Nepal,NPL,,,28609000.0
+1959,Netherlands,NLD,2.15,10382.0,11295000.0
 1960,Netherlands,NLD,2.09,10770.0,11449000.0
 1961,Netherlands,NLD,2.03,10673.0,11606000.0
 1962,Netherlands,NLD,1.97,11470.0,11767000.0
@@ -10210,6 +10236,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Netherlands,NLD,,,17021000.0
 2018,Netherlands,NLD,,,17060000.0
 2019,Netherlands,NLD,,,17097000.0
+1959,New Caledonia,NCL,,,76000.0
 1960,New Caledonia,NCL,,,78000.0
 1961,New Caledonia,NCL,,,81000.0
 1962,New Caledonia,NCL,,,83000.0
@@ -10270,6 +10297,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,New Caledonia,NCL,,,277000.0
 2018,New Caledonia,NCL,,,280000.0
 2019,New Caledonia,NCL,,,283000.0
+1959,New Zealand,NZL,2.87,13515.0,2323000.0
 1960,New Zealand,NZL,2.79,12677.0,2373000.0
 1961,New Zealand,NZL,2.68,13170.0,2424000.0
 1962,New Zealand,NZL,2.58,13354.0,2477000.0
@@ -10330,6 +10358,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,New Zealand,NZL,,,4702000.0
 2018,New Zealand,NZL,,,4743000.0
 2019,New Zealand,NZL,,,4783000.0
+1959,Nicaragua,NIC,19.980000000000004,2253.0,1717000.0
 1960,Nicaragua,NIC,19.77,2118.0,1773000.0
 1961,Nicaragua,NIC,19.6,2246.0,1830000.0
 1962,Nicaragua,NIC,19.4,2443.0,1887000.0
@@ -10390,6 +10419,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Nicaragua,NIC,,,6385000.0
 2018,Nicaragua,NIC,,,6466000.0
 2019,Nicaragua,NIC,,,6546000.0
+1959,Niger,NER,,1310.0,3296000.0
 1960,Niger,NER,,1361.0,3389000.0
 1961,Niger,NER,,1421.0,3486000.0
 1962,Niger,NER,,1562.0,3588000.0
@@ -10450,6 +10480,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Niger,NER,,,21602000.0
 2018,Niger,NER,,,22443000.0
 2019,Niger,NER,,,23311000.0
+1959,Nigeria,NGA,,2262.0,44255000.0
 1960,Nigeria,NGA,,2179.0,45138000.0
 1961,Nigeria,NGA,,2341.0,46064000.0
 1962,Nigeria,NGA,33.0967,2422.0,47030000.0
@@ -10510,6 +10541,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Nigeria,NGA,,,190872992.0
 2018,Nigeria,NGA,,,195875008.0
 2019,Nigeria,NGA,,,200964000.0
+1959,Niue,NIU,,,5000.0
 1960,Niue,NIU,,,5000.0
 1961,Niue,NIU,,,5000.0
 1962,Niue,NIU,,,5000.0
@@ -10570,6 +10602,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Niue,NIU,,,2000.0
 2018,Niue,NIU,,,2000.0
 2019,Niue,NIU,,,2000.0
+1959,North America,,,,201300992.0
 1960,North America,,,,204648992.0
 1961,North America,,,,207887008.0
 1962,North America,,,,210996000.0
@@ -10627,11 +10660,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,North America,,,,354464000.0
 2015,North America,,,,357031008.0
 2016,North America,,,,359524992.0
-1000,North America,,,,1325405.0
-1300,North America,,,,1742087.0
-1400,North America,,,,1930795.0
-1500,North America,,,,2099760.0
-1600,North America,,,,984311.0
 1700,North America,,,,1227479.0
 1710,North America,,,,1695439.0
 1720,North America,,,,2173131.0
@@ -10642,31 +10670,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,North America,,,,4697496.0
 1780,North America,,,,5243777.0
 1790,North America,,,,5810639.0
-10000 BCE,North America,,,,38894.0
-9000 BCE,North America,,,,52001.0
-8000 BCE,North America,,,,69550.0
-7000 BCE,North America,,,,93055.0
-6000 BCE,North America,,,,124556.0
-5000 BCE,North America,,,,166800.0
-4000 BCE,North America,,,,223486.0
-3000 BCE,North America,,,,299613.0
-2000 BCE,North America,,,,401930.0
-1000 BCE,North America,,,,539578.0
-0,North America,,,,724947.0
-100,North America,,,,761624.0
-200,North America,,,,800250.0
-300,North America,,,,840937.0
-400,North America,,,,883809.0
-500,North America,,,,929001.0
-600,North America,,,,976659.0
-700,North America,,,,1026949.0
-800,North America,,,,1080062.0
-900,North America,,,,1202674.0
-1100,North America,,,,1440107.0
-1200,North America,,,,1602399.0
 2017,North America,,,,361942016.0
 2018,North America,,,,364296000.0
 2019,North America,,,,366600992.0
+1959,North Korea,PRK,,819.0,11145000.0
 1960,North Korea,PRK,11.7544,808.0,11424000.0
 1961,North Korea,PRK,11.5866,822.0,11666000.0
 1962,North Korea,PRK,11.3876,820.0,11872000.0
@@ -10727,6 +10734,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,North Korea,PRK,,,25430000.0
 2018,North Korea,PRK,,,25550000.0
 2019,North Korea,PRK,,,25666000.0
+1959,Northern Mariana Islands,MNP,,,10000.0
 1960,Northern Mariana Islands,MNP,,,10000.0
 1961,Northern Mariana Islands,MNP,,,10000.0
 1962,Northern Mariana Islands,MNP,,,10000.0
@@ -10787,6 +10795,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Northern Mariana Islands,MNP,,,57000.0
 2018,Northern Mariana Islands,MNP,,,57000.0
 2019,Northern Mariana Islands,MNP,,,57000.0
+1959,Norway,NOR,2.32,10386.0,3553000.0
 1960,Norway,NOR,2.26,10250.0,3583000.0
 1961,Norway,NOR,2.2,10803.0,3611000.0
 1962,Norway,NOR,2.15,11076.0,3639000.0
@@ -10847,6 +10856,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Norway,NOR,,,5296000.0
 2018,Norway,NOR,,,5338000.0
 2019,Norway,NOR,,,5379000.0
+1959,Oceania,,,,15687000.0
 1960,Oceania,,,,16022000.0
 1961,Oceania,,,,16354000.0
 1962,Oceania,,,,16686000.0
@@ -10904,11 +10914,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Oceania,,,,39279000.0
 2015,Oceania,,,,39859000.0
 2016,Oceania,,,,40436000.0
-1000,Oceania,,,,383237.0
-1300,Oceania,,,,421499.0
-1400,Oceania,,,,432446.0
-1500,Oceania,,,,504796.0
-1600,Oceania,,,,578789.0
 1700,Oceania,,,,650634.0
 1710,Oceania,,,,649577.0
 1720,Oceania,,,,659671.0
@@ -10919,31 +10924,10 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1770,Oceania,,,,725037.0
 1780,Oceania,,,,742048.0
 1790,Oceania,,,,761331.0
-10000 BCE,Oceania,,,,251343.0
-9000 BCE,Oceania,,,,252015.0
-8000 BCE,Oceania,,,,253022.0
-7000 BCE,Oceania,,,,254533.0
-6000 BCE,Oceania,,,,256800.0
-5000 BCE,Oceania,,,,260199.0
-4000 BCE,Oceania,,,,265299.0
-3000 BCE,Oceania,,,,272949.0
-2000 BCE,Oceania,,,,284423.0
-1000 BCE,Oceania,,,,301634.0
-0,Oceania,,,,327451.0
-100,Oceania,,,,330602.0
-200,Oceania,,,,334008.0
-300,Oceania,,,,337698.0
-400,Oceania,,,,341709.0
-500,Oceania,,,,346080.0
-600,Oceania,,,,350857.0
-700,Oceania,,,,356094.0
-800,Oceania,,,,361852.0
-900,Oceania,,,,372205.0
-1100,Oceania,,,,395048.0
-1200,Oceania,,,,407755.0
 2017,Oceania,,,,41006000.0
 2018,Oceania,,,,41571000.0
 2019,Oceania,,,,42128000.0
+1959,Oman,OMN,39.99,1884.0,539000.0
 1960,Oman,OMN,38.05,1956.0,552000.0
 1961,Oman,OMN,36.26000000000001,1932.0,565000.0
 1962,Oman,OMN,33.87,2267.0,579000.0
@@ -11004,6 +10988,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Oman,OMN,,,4666000.0
 2018,Oman,OMN,,,4829000.0
 2019,Oman,OMN,,,4975000.0
+1959,Pakistan,PAK,27.02,1087.0,43971000.0
 1960,Pakistan,PAK,26.02,1096.0,44989000.0
 1961,Pakistan,PAK,25.08,1131.0,46065000.0
 1962,Pakistan,PAK,24.180000000000003,1195.0,47199000.0
@@ -11064,6 +11049,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Pakistan,PAK,,,207906000.0
 2018,Pakistan,PAK,,,212228000.0
 2019,Pakistan,PAK,,,216564992.0
+1959,Palau,PLW,,,9000.0
 1960,Palau,PLW,,,10000.0
 1961,Palau,PLW,,,10000.0
 1962,Palau,PLW,,,10000.0
@@ -11124,6 +11110,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Palau,PLW,,,18000.0
 2018,Palau,PLW,,,18000.0
 2019,Palau,PLW,,,18000.0
+1959,Palestine,PSE,,1104.0,1048000.0
 1960,Palestine,PSE,,1156.0,1069000.0
 1961,Palestine,PSE,,1177.0,1097000.0
 1962,Palestine,PSE,,1225.0,1129000.0
@@ -11184,6 +11171,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Palestine,PSE,,,4747000.0
 2018,Palestine,PSE,,,4863000.0
 2019,Palestine,PSE,,,4981000.0
+1959,Panama,PAN,9.33,2790.0,1100000.0
 1960,Panama,PAN,9.06,2380.0,1133000.0
 1961,Panama,PAN,8.790000000000001,2622.0,1167000.0
 1962,Panama,PAN,8.53,2869.0,1202000.0
@@ -11244,6 +11232,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Panama,PAN,,,4107000.0
 2018,Panama,PAN,,,4177000.0
 2019,Panama,PAN,,,4246000.0
+1959,Papua New Guinea,PNG,20.49,,2217000.0
 1960,Papua New Guinea,PNG,19.87,,2256000.0
 1961,Papua New Guinea,PNG,19.27,,2297000.0
 1962,Papua New Guinea,PNG,18.67,,2340000.0
@@ -11304,6 +11293,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Papua New Guinea,PNG,,,8438000.0
 2018,Papua New Guinea,PNG,,,8606000.0
 2019,Papua New Guinea,PNG,,,8776000.0
+1959,Paraguay,PRY,8.42,1232.0,1855000.0
 1960,Paraguay,PRY,8.32,1191.0,1904000.0
 1961,Paraguay,PRY,8.24,1239.0,1955000.0
 1962,Paraguay,PRY,8.17,1333.0,2007000.0
@@ -11364,6 +11354,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Paraguay,PRY,,,6867000.0
 2018,Paraguay,PRY,,,6956000.0
 2019,Paraguay,PRY,,,7045000.0
+1959,Peru,PER,23.32,2299.0,9875000.0
 1960,Peru,PER,22.67,2486.0,10155000.0
 1961,Peru,PER,22.040000000000006,2641.0,10447000.0
 1962,Peru,PER,21.36,2784.0,10749000.0
@@ -11424,6 +11415,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Peru,PER,,,31444000.0
 2018,Peru,PER,,,31989000.0
 2019,Peru,PER,,,32510000.0
+1959,Philippines,PHL,10.81,1843.0,25406000.0
 1960,Philippines,PHL,10.45,1779.0,26270000.0
 1961,Philippines,PHL,10.11,1818.0,27161000.0
 1962,Philippines,PHL,9.840000000000002,1904.0,28077000.0
@@ -11484,6 +11476,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Philippines,PHL,,,105173000.0
 2018,Philippines,PHL,,,106651000.0
 2019,Philippines,PHL,,,108117000.0
+1959,Poland,POL,7.27,3974.0,29186000.0
 1960,Poland,POL,6.46,4126.0,29614000.0
 1961,Poland,POL,5.95,4397.0,30016000.0
 1962,Poland,POL,5.58,4288.0,30389000.0
@@ -11541,7 +11534,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Poland,POL,0.5,24356.0,38091000.0
 2015,Poland,POL,0.4900000000000001,25310.0,38034000.0
 2016,Poland,POL,0.47,26002.0,37989000.0
-1400,Poland,POL,,1050.0,
 1409,Poland,POL,,982.0,
 1410,Poland,POL,,984.0,
 1411,Poland,POL,,985.0,
@@ -11633,7 +11625,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1497,Poland,POL,,1009.0,
 1498,Poland,POL,,1022.0,
 1499,Poland,POL,,1023.0,
-1500,Poland,POL,,1036.0,
 1501,Poland,POL,,766.0,
 1502,Poland,POL,,773.0,
 1503,Poland,POL,,764.0,
@@ -11733,7 +11724,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1597,Poland,POL,,861.0,
 1598,Poland,POL,,852.0,
 1599,Poland,POL,,836.0,
-1600,Poland,POL,,835.0,
 1601,Poland,POL,,827.0,
 1602,Poland,POL,,822.0,
 1603,Poland,POL,,815.0,
@@ -11936,6 +11926,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Poland,POL,,,37953000.0
 2018,Poland,POL,,,37922000.0
 2019,Poland,POL,,,37888000.0
+1959,Portugal,PRT,11.73,3723.0,8814000.0
 1960,Portugal,PRT,11.43,3900.0,8845000.0
 1961,Portugal,PRT,11.02,4082.0,8870000.0
 1962,Portugal,PRT,10.46,4470.0,8889000.0
@@ -12064,7 +12055,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1597,Portugal,PRT,,1012.0,
 1598,Portugal,PRT,,1018.0,
 1599,Portugal,PRT,,985.0,
-1600,Portugal,PRT,,1239.0,
 1601,Portugal,PRT,,1229.0,
 1602,Portugal,PRT,,1395.0,
 1603,Portugal,PRT,,1081.0,
@@ -12267,6 +12257,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Portugal,PRT,,,10289000.0
 2018,Portugal,PRT,,,10256000.0
 2019,Portugal,PRT,,,10226000.0
+1959,Puerto Rico,PRI,,7164.0,2264000.0
 1960,Puerto Rico,PRI,,7566.0,2295000.0
 1961,Puerto Rico,PRI,,8134.0,2334000.0
 1962,Puerto Rico,PRI,,8584.0,2378000.0
@@ -12327,6 +12318,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Puerto Rico,PRI,,,3164000.0
 2018,Puerto Rico,PRI,,,3040000.0
 2019,Puerto Rico,PRI,,,2933000.0
+1959,Qatar,QAT,,,44000.0
 1960,Qatar,QAT,13.836000000000002,,47000.0
 1961,Qatar,QAT,,,51000.0
 1962,Qatar,QAT,,,56000.0
@@ -12387,6 +12379,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Qatar,QAT,,,2725000.0
 2018,Qatar,QAT,,,2782000.0
 2019,Qatar,QAT,,,2832000.0
+1959,Reunion,REU,,,326000.0
 1960,Reunion,REU,,,336000.0
 1961,Reunion,REU,,,345000.0
 1962,Reunion,REU,,,355000.0
@@ -12447,6 +12440,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Reunion,REU,,,876000.0
 2018,Reunion,REU,,,883000.0
 2019,Reunion,REU,,,889000.0
+1959,Romania,ROU,10.689,1706.0,18420000.0
 1960,Romania,ROU,9.524,1853.0,18614000.0
 1961,Romania,ROU,7.300000000000002,1918.0,18780000.0
 1962,Romania,ROU,7.2,2012.0,18924000.0
@@ -12507,6 +12501,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Romania,ROU,,,19654000.0
 2018,Romania,ROU,,,19506000.0
 2019,Romania,ROU,,,19365000.0
+1959,Russia,RUS,,,118276000.0
 1960,Russia,RUS,,8212.0,119872000.0
 1961,Russia,RUS,,8680.0,121404000.0
 1962,Russia,RUS,,9205.0,122858000.0
@@ -12567,6 +12562,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Russia,RUS,,,145530000.0
 2018,Russia,RUS,,,145734000.0
 2019,Russia,RUS,,,145872000.0
+1959,Rwanda,RWA,22.77,724.0,2863000.0
 1960,Rwanda,RWA,22.16,728.0,2936000.0
 1961,Rwanda,RWA,21.69,697.0,2998000.0
 1962,Rwanda,RWA,21.32,809.0,3053000.0
@@ -12627,6 +12623,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Rwanda,RWA,,,11981000.0
 2018,Rwanda,RWA,,,12302000.0
 2019,Rwanda,RWA,,,12627000.0
+1959,Saint Barthlemy,,,,2000.0
 1960,Saint Barthlemy,,,,2000.0
 1961,Saint Barthlemy,,,,2000.0
 1962,Saint Barthlemy,,,,2000.0
@@ -12687,6 +12684,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Barthlemy,,,,10000.0
 2018,Saint Barthlemy,,,,10000.0
 2019,Saint Barthlemy,,,,10000.0
+1959,Saint Helena,SHN,,,5000.0
 1960,Saint Helena,SHN,,,5000.0
 1961,Saint Helena,SHN,,,5000.0
 1962,Saint Helena,SHN,,,5000.0
@@ -12747,6 +12745,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Helena,SHN,,,6000.0
 2018,Saint Helena,SHN,,,6000.0
 2019,Saint Helena,SHN,,,6000.0
+1959,Saint Kitts and Nevis,KNA,,,51000.0
 1960,Saint Kitts and Nevis,KNA,,,51000.0
 1961,Saint Kitts and Nevis,KNA,,,51000.0
 1962,Saint Kitts and Nevis,KNA,,,51000.0
@@ -12807,6 +12806,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Kitts and Nevis,KNA,,,52000.0
 2018,Saint Kitts and Nevis,KNA,,,52000.0
 2019,Saint Kitts and Nevis,KNA,,,53000.0
+1959,Saint Lucia,LCA,,2596.0,89000.0
 1960,Saint Lucia,LCA,,2707.0,90000.0
 1961,Saint Lucia,LCA,,2795.0,91000.0
 1962,Saint Lucia,LCA,,2877.0,92000.0
@@ -12867,6 +12867,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Lucia,LCA,,,181000.0
 2018,Saint Lucia,LCA,,,182000.0
 2019,Saint Lucia,LCA,,,183000.0
+1959,Saint Martin (French part),MAF,,,4000.0
 1960,Saint Martin (French part),MAF,,,4000.0
 1961,Saint Martin (French part),MAF,,,4000.0
 1962,Saint Martin (French part),MAF,,,4000.0
@@ -12927,6 +12928,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Martin (French part),MAF,,,37000.0
 2018,Saint Martin (French part),MAF,,,37000.0
 2019,Saint Martin (French part),MAF,,,38000.0
+1959,Saint Pierre and Miquelon,SPM,,,5000.0
 1960,Saint Pierre and Miquelon,SPM,,,5000.0
 1961,Saint Pierre and Miquelon,SPM,,,5000.0
 1962,Saint Pierre and Miquelon,SPM,,,5000.0
@@ -12987,6 +12989,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Pierre and Miquelon,SPM,,,6000.0
 2018,Saint Pierre and Miquelon,SPM,,,6000.0
 2019,Saint Pierre and Miquelon,SPM,,,6000.0
+1959,Saint Vincent and the Grenadines,VCT,,,80000.0
 1960,Saint Vincent and the Grenadines,VCT,,,81000.0
 1961,Saint Vincent and the Grenadines,VCT,,,82000.0
 1962,Saint Vincent and the Grenadines,VCT,,,83000.0
@@ -13047,6 +13050,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saint Vincent and the Grenadines,VCT,,,110000.0
 2018,Saint Vincent and the Grenadines,VCT,,,110000.0
 2019,Saint Vincent and the Grenadines,VCT,,,111000.0
+1959,Samoa,WSM,,,105000.0
 1960,Samoa,WSM,13.477000000000002,,109000.0
 1961,Samoa,WSM,,,112000.0
 1962,Samoa,WSM,,,116000.0
@@ -13107,6 +13111,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Samoa,WSM,,,195000.0
 2018,Samoa,WSM,,,196000.0
 2019,Samoa,WSM,,,197000.0
+1959,San Marino,SMR,,,15000.0
 1960,San Marino,SMR,,,15000.0
 1961,San Marino,SMR,,,16000.0
 1962,San Marino,SMR,,,16000.0
@@ -13167,6 +13172,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,San Marino,SMR,,,34000.0
 2018,San Marino,SMR,,,34000.0
 2019,San Marino,SMR,,,34000.0
+1959,Sao Tome and Principe,STP,,1091.0,64000.0
 1960,Sao Tome and Principe,STP,,1208.0,64000.0
 1961,Sao Tome and Principe,STP,,1299.0,65000.0
 1962,Sao Tome and Principe,STP,,1385.0,64000.0
@@ -13227,6 +13233,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sao Tome and Principe,STP,,,207000.0
 2018,Sao Tome and Principe,STP,,,211000.0
 2019,Sao Tome and Principe,STP,,,215000.0
+1959,Saudi Arabia,SAU,,6946.0,3966000.0
 1960,Saudi Arabia,SAU,24.248,7510.0,4087000.0
 1961,Saudi Arabia,SAU,,8254.0,4219000.0
 1962,Saudi Arabia,SAU,,9069.0,4363000.0
@@ -13287,6 +13294,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Saudi Arabia,SAU,,,33101000.0
 2018,Saudi Arabia,SAU,,,33703000.0
 2019,Saudi Arabia,SAU,,,34269000.0
+1959,Senegal,SEN,30.09,2376.0,3121000.0
 1960,Senegal,SEN,29.960000000000004,2337.0,3207000.0
 1961,Senegal,SEN,29.92,2369.0,3295000.0
 1962,Senegal,SEN,29.92,2405.0,3387000.0
@@ -13347,6 +13355,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Senegal,SEN,,,15419000.0
 2018,Senegal,SEN,,,15854000.0
 2019,Senegal,SEN,,,16296000.0
+1959,Serbia,SRB,,2916.0,7499000.0
 1960,Serbia,SRB,,2964.0,7557000.0
 1961,Serbia,SRB,,3031.0,7613000.0
 1962,Serbia,SRB,,3180.0,7670000.0
@@ -13407,6 +13416,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Serbia,SRB,,,8830000.0
 2018,Serbia,SRB,,,8803000.0
 2019,Serbia,SRB,,,8772000.0
+1959,Seychelles,SYC,10.38,5813.0,41000.0
 1960,Seychelles,SYC,10.19,6103.0,42000.0
 1961,Seychelles,SYC,9.98,5355.0,42000.0
 1962,Seychelles,SYC,9.78,5528.0,43000.0
@@ -13467,6 +13477,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Seychelles,SYC,,,96000.0
 2018,Seychelles,SYC,,,97000.0
 2019,Seychelles,SYC,,,98000.0
+1959,Sierra Leone,SLE,39.83000000000001,1960.0,2284000.0
 1960,Sierra Leone,SLE,39.31,1962.0,2318000.0
 1961,Sierra Leone,SLE,38.81,1935.0,2352000.0
 1962,Sierra Leone,SLE,38.27,1959.0,2389000.0
@@ -13527,6 +13538,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sierra Leone,SLE,,,7488000.0
 2018,Sierra Leone,SLE,,,7650000.0
 2019,Sierra Leone,SLE,,,7813000.0
+1959,Singapore,SGP,5.2200000000000015,2211.0,1572000.0
 1960,Singapore,SGP,4.78,2365.0,1633000.0
 1961,Singapore,SGP,4.38,2474.0,1690000.0
 1962,Singapore,SGP,4.0600000000000005,2577.0,1741000.0
@@ -13587,6 +13599,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Singapore,SGP,,,5708000.0
 2018,Singapore,SGP,,,5758000.0
 2019,Singapore,SGP,,,5804000.0
+1959,Sint Maarten (Dutch part),SXM,,,3000.0
 1960,Sint Maarten (Dutch part),SXM,,,3000.0
 1961,Sint Maarten (Dutch part),SXM,,,3000.0
 1962,Sint Maarten (Dutch part),SXM,,,3000.0
@@ -13647,6 +13660,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sint Maarten (Dutch part),SXM,,,41000.0
 2018,Sint Maarten (Dutch part),SXM,,,42000.0
 2019,Sint Maarten (Dutch part),SXM,,,42000.0
+1959,Slovakia,SVK,4.704,,4081000.0
 1960,Slovakia,SVK,4.148,,4140000.0
 1961,Slovakia,SVK,3.92,,4196000.0
 1962,Slovakia,SVK,3.594,,4249000.0
@@ -13707,6 +13721,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Slovakia,SVK,,,5448000.0
 2018,Slovakia,SVK,,,5453000.0
 2019,Slovakia,SVK,,,5457000.0
+1959,Slovenia,SVN,,5810.0,1576000.0
 1960,Slovenia,SVN,2.397,6604.0,1587000.0
 1961,Slovenia,SVN,,7151.0,1597000.0
 1962,Slovenia,SVN,,7399.0,1606000.0
@@ -13767,6 +13782,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Slovenia,SVN,,,2076000.0
 2018,Slovenia,SVN,,,2078000.0
 2019,Slovenia,SVN,,,2079000.0
+1959,Solomon Islands,SLB,,,114000.0
 1960,Solomon Islands,SLB,19.58,,118000.0
 1961,Solomon Islands,SLB,18.51,,121000.0
 1962,Solomon Islands,SLB,17.53,,125000.0
@@ -13827,6 +13843,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Solomon Islands,SLB,,,636000.0
 2018,Solomon Islands,SLB,,,653000.0
 2019,Solomon Islands,SLB,,,670000.0
+1959,Somalia,SOM,,,2700000.0
 1960,Somalia,SOM,,,2756000.0
 1961,Somalia,SOM,,,2814000.0
 1962,Somalia,SOM,,,2874000.0
@@ -13887,6 +13904,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Somalia,SOM,,,14589000.0
 2018,Somalia,SOM,,,15008000.0
 2019,Somalia,SOM,,,15443000.0
+1959,South Africa,ZAF,,5713.0,16691000.0
 1960,South Africa,ZAF,,5802.0,17100000.0
 1961,South Africa,ZAF,,5934.0,17525000.0
 1962,South Africa,ZAF,,6033.0,17966000.0
@@ -14041,6 +14059,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,South Africa,ZAF,,,57010000.0
 2018,South Africa,ZAF,,,57793000.0
 2019,South Africa,ZAF,,,58558000.0
+1959,South Korea,KOR,12.19,1511.0,24553000.0
 1960,South Korea,KOR,11.490000000000002,1487.0,25330000.0
 1961,South Korea,KOR,10.91,1527.0,26084000.0
 1962,South Korea,KOR,10.4,1573.0,26812000.0
@@ -14101,6 +14120,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,South Korea,KOR,,,51096000.0
 2018,South Korea,KOR,,,51172000.0
 2019,South Korea,KOR,,,51225000.0
+1959,South Sudan,SSD,35.95,,2792000.0
 1960,South Sudan,SSD,35.7,,2843000.0
 1961,South Sudan,SSD,35.44,,2896000.0
 1962,South Sudan,SSD,35.21,,2951000.0
@@ -14161,6 +14181,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,South Sudan,SSD,,,10911000.0
 2018,South Sudan,SSD,,,10976000.0
 2019,South Sudan,SSD,,,11062000.0
+1959,Spain,ESP,4.99,5577.0,30097000.0
 1960,Spain,ESP,4.63,5472.0,30402000.0
 1961,Spain,ESP,4.3,5976.0,30730000.0
 1962,Spain,ESP,4.0200000000000005,6413.0,31075000.0
@@ -14219,18 +14240,15 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2015,Spain,ESP,0.34,33376.0,46672000.0
 2016,Spain,ESP,0.33,31556.0,46634000.0
 1,Spain,ESP,,973.0,
-1300,Spain,ESP,,1836.0,
 1348,Spain,ESP,,1928.0,
-1400,Spain,ESP,,1740.0,
-1500,Spain,ESP,,1797.0,
 1570,Spain,ESP,,1934.0,
-1600,Spain,ESP,,1896.0,
 1650,Spain,ESP,,1461.0,
 1700,Spain,ESP,,1730.0,
 1750,Spain,ESP,,1665.0,
 2017,Spain,ESP,,,46647000.0
 2018,Spain,ESP,,,46693000.0
 2019,Spain,ESP,,,46737000.0
+1959,Sri Lanka,LKA,10.37,1495.0,9641000.0
 1960,Sri Lanka,LKA,9.94,1508.0,9874000.0
 1961,Sri Lanka,LKA,9.53,1497.0,10112000.0
 1962,Sri Lanka,LKA,9.15,1510.0,10352000.0
@@ -14291,6 +14309,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sri Lanka,LKA,,,21128000.0
 2018,Sri Lanka,LKA,,,21229000.0
 2019,Sri Lanka,LKA,,,21324000.0
+1959,Sudan,SDN,18.02,2135.0,7329000.0
 1960,Sudan,SDN,17.71,2106.0,7544000.0
 1961,Sudan,SDN,17.41,2040.0,7769000.0
 1962,Sudan,SDN,17.12,2113.0,8004000.0
@@ -14351,6 +14370,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sudan,SDN,,,40813000.0
 2018,Sudan,SDN,,,41802000.0
 2019,Sudan,SDN,,,42813000.0
+1959,Suriname,SUR,,,280000.0
 1960,Suriname,SUR,,,288000.0
 1961,Suriname,SUR,,,296000.0
 1962,Suriname,SUR,,,304000.0
@@ -14411,6 +14431,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Suriname,SUR,,,571000.0
 2018,Suriname,SUR,,,576000.0
 2019,Suriname,SUR,,,581000.0
+1959,Swaziland,SWZ,21.25,862.0,330000.0
 1960,Swaziland,SWZ,20.99,956.0,337000.0
 1961,Swaziland,SWZ,20.71,1052.0,343000.0
 1962,Swaziland,SWZ,20.4,1242.0,350000.0
@@ -14471,6 +14492,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Swaziland,SWZ,,,1125000.0
 2018,Swaziland,SWZ,,,1136000.0
 2019,Swaziland,SWZ,,,1148000.0
+1959,Sweden,SWE,1.99,11310.0,7436000.0
 1960,Sweden,SWE,1.96,11391.0,7483000.0
 1961,Sweden,SWE,1.92,12106.0,7530000.0
 1962,Sweden,SWE,1.8600000000000003,12806.0,7580000.0
@@ -14528,7 +14550,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Sweden,SWE,0.29,42202.0,9692000.0
 2015,Sweden,SWE,0.29,43464.0,9765000.0
 2016,Sweden,SWE,0.29,44371.0,9836000.0
-1300,Sweden,SWE,,955.0,
 1301,Sweden,SWE,,956.0,
 1302,Sweden,SWE,,1162.0,
 1303,Sweden,SWE,,1259.0,
@@ -14628,7 +14649,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1397,Sweden,SWE,,1284.0,
 1398,Sweden,SWE,,1295.0,
 1399,Sweden,SWE,,1305.0,
-1400,Sweden,SWE,,1301.0,
 1401,Sweden,SWE,,1298.0,
 1402,Sweden,SWE,,1295.0,
 1403,Sweden,SWE,,1290.0,
@@ -14728,7 +14748,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1497,Sweden,SWE,,1174.0,
 1498,Sweden,SWE,,1158.0,
 1499,Sweden,SWE,,1195.0,
-1500,Sweden,SWE,,1482.0,
 1501,Sweden,SWE,,1541.0,
 1502,Sweden,SWE,,1385.0,
 1503,Sweden,SWE,,1245.0,
@@ -14828,7 +14847,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 1597,Sweden,SWE,,1013.0,
 1598,Sweden,SWE,,952.0,
 1599,Sweden,SWE,,1070.0,
-1600,Sweden,SWE,,1060.0,
 1601,Sweden,SWE,,1210.0,
 1602,Sweden,SWE,,1046.0,
 1603,Sweden,SWE,,1067.0,
@@ -15031,6 +15049,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Sweden,SWE,,,9905000.0
 2018,Sweden,SWE,,,9972000.0
 2019,Sweden,SWE,,,10036000.0
+1959,Switzerland,CHE,2.7100000000000004,13914.0,5198000.0
 1960,Switzerland,CHE,2.6500000000000004,14627.0,5281000.0
 1961,Switzerland,CHE,2.6,15479.0,5378000.0
 1962,Switzerland,CHE,2.54,16171.0,5487000.0
@@ -15092,6 +15111,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Switzerland,CHE,,,8456000.0
 2018,Switzerland,CHE,,,8526000.0
 2019,Switzerland,CHE,,,8591000.0
+1959,Syria,SYR,18.28,2846.0,4430000.0
 1960,Syria,SYR,17.330000000000002,2770.0,4574000.0
 1961,Syria,SYR,16.45,2972.0,4722000.0
 1962,Syria,SYR,15.64,3244.0,4875000.0
@@ -15152,6 +15172,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Syria,SYR,,,17096000.0
 2018,Syria,SYR,,,16945000.0
 2019,Syria,SYR,,,17070000.0
+1959,Taiwan,TWN,,2086.0,10512000.0
 1960,Taiwan,TWN,,2115.0,10876000.0
 1961,Taiwan,TWN,,2216.0,11258000.0
 1962,Taiwan,TWN,,2342.0,11655000.0
@@ -15212,6 +15233,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Taiwan,TWN,,,23675000.0
 2018,Taiwan,TWN,,,23726000.0
 2019,Taiwan,TWN,,,23774000.0
+1959,Tajikistan,TJK,,,2021000.0
 1960,Tajikistan,TJK,,,2087000.0
 1961,Tajikistan,TJK,,,2159000.0
 1962,Tajikistan,TJK,,,2237000.0
@@ -15272,6 +15294,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tajikistan,TJK,,,8880000.0
 2018,Tajikistan,TJK,,,9101000.0
 2019,Tajikistan,TJK,,,9321000.0
+1959,Tanzania,TZA,24.44,1344.0,9768000.0
 1960,Tanzania,TZA,24.28,1360.0,10052000.0
 1961,Tanzania,TZA,24.08,1446.0,10347000.0
 1962,Tanzania,TZA,23.86,1543.0,10652000.0
@@ -15332,6 +15355,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tanzania,TZA,,,54660000.0
 2018,Tanzania,TZA,,,56313000.0
 2019,Tanzania,TZA,,,58005000.0
+1959,Thailand,THA,15.2,1277.0,26600000.0
 1960,Thailand,THA,14.67,1368.0,27397000.0
 1961,Thailand,THA,14.16,1392.0,28224000.0
 1962,Thailand,THA,13.68,1479.0,29081000.0
@@ -15392,6 +15416,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Thailand,THA,,,69210000.0
 2018,Thailand,THA,,,69428000.0
 2019,Thailand,THA,,,69626000.0
+1959,Timor,TLS,,,467000.0
 1960,Timor,TLS,,,475000.0
 1961,Timor,TLS,,,483000.0
 1962,Timor,TLS,,,492000.0
@@ -15452,6 +15477,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Timor,TLS,,,1243000.0
 2018,Timor,TLS,,,1268000.0
 2019,Timor,TLS,,,1293000.0
+1959,Togo,TGO,27.710000000000004,1036.0,1560000.0
 1960,Togo,TGO,27.22,1102.0,1581000.0
 1961,Togo,TGO,26.730000000000004,1158.0,1598000.0
 1962,Togo,TGO,26.24,1160.0,1613000.0
@@ -15512,6 +15538,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Togo,TGO,,,7698000.0
 2018,Togo,TGO,,,7889000.0
 2019,Togo,TGO,,,8082000.0
+1959,Tokelau,TKL,,,2000.0
 1960,Tokelau,TKL,,,2000.0
 1961,Tokelau,TKL,,,2000.0
 1962,Tokelau,TKL,,,2000.0
@@ -15572,6 +15599,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tokelau,TKL,,,1000.0
 2018,Tokelau,TKL,,,1000.0
 2019,Tokelau,TKL,,,1000.0
+1959,Tonga,TON,,,60000.0
 1960,Tonga,TON,,,62000.0
 1961,Tonga,TON,,,64000.0
 1962,Tonga,TON,,,66000.0
@@ -15632,6 +15660,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tonga,TON,,,102000.0
 2018,Tonga,TON,,,103000.0
 2019,Tonga,TON,,,104000.0
+1959,Trinidad and Tobago,TTO,7.0200000000000005,7240.0,829000.0
 1960,Trinidad and Tobago,TTO,6.7700000000000005,7773.0,848000.0
 1961,Trinidad and Tobago,TTO,6.53,7956.0,865000.0
 1962,Trinidad and Tobago,TTO,6.300000000000002,7714.0,879000.0
@@ -15692,6 +15721,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Trinidad and Tobago,TTO,,,1384000.0
 2018,Trinidad and Tobago,TTO,,,1390000.0
 2019,Trinidad and Tobago,TTO,,,1395000.0
+1959,Tunisia,TUN,,1767.0,4125000.0
 1960,Tunisia,TUN,,1950.0,4178000.0
 1961,Tunisia,TUN,27.557600000000004,2085.0,4238000.0
 1962,Tunisia,TUN,26.8,2003.0,4305000.0
@@ -15753,6 +15783,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tunisia,TUN,,,11433000.0
 2018,Tunisia,TUN,,,11565000.0
 2019,Tunisia,TUN,,,11695000.0
+1959,Turkey,TUR,26.34,3012.0,26809000.0
 1960,Turkey,TUR,25.630000000000006,3059.0,27472000.0
 1961,Turkey,TUR,24.87,3061.0,28147000.0
 1962,Turkey,TUR,24.130000000000006,3218.0,28833000.0
@@ -15811,17 +15842,16 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2015,Turkey,TUR,1.36,20808.0,78529000.0
 2016,Turkey,TUR,1.27,18784.0,79828000.0
 1,Turkey,TUR,,984.0,
-1000,Turkey,TUR,,844.0,
 1150,Turkey,TUR,,816.0,
 1348,Turkey,TUR,,816.0,
 1450,Turkey,TUR,,858.0,
-1500,Turkey,TUR,,844.0,
 1650,Turkey,TUR,,1036.0,
 1700,Turkey,TUR,,1116.0,
 1750,Turkey,TUR,,1148.0,
 2017,Turkey,TUR,,,81116000.0
 2018,Turkey,TUR,,,82340000.0
 2019,Turkey,TUR,,,83430000.0
+1959,Turkmenistan,TKM,,,1550000.0
 1960,Turkmenistan,TKM,,,1603000.0
 1961,Turkmenistan,TKM,,,1658000.0
 1962,Turkmenistan,TKM,,,1715000.0
@@ -15882,6 +15912,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Turkmenistan,TKM,,,5758000.0
 2018,Turkmenistan,TKM,,,5851000.0
 2019,Turkmenistan,TKM,,,5942000.0
+1959,Turks and Caicos Islands,TCA,,,6000.0
 1960,Turks and Caicos Islands,TCA,,,6000.0
 1961,Turks and Caicos Islands,TCA,,,6000.0
 1962,Turks and Caicos Islands,TCA,,,6000.0
@@ -15942,6 +15973,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Turks and Caicos Islands,TCA,,,37000.0
 2018,Turks and Caicos Islands,TCA,,,38000.0
 2019,Turks and Caicos Islands,TCA,,,38000.0
+1959,Tuvalu,TUV,,,5000.0
 1960,Tuvalu,TUV,,,5000.0
 1961,Tuvalu,TUV,,,5000.0
 1962,Tuvalu,TUV,,,5000.0
@@ -16002,6 +16034,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Tuvalu,TUV,,,11000.0
 2018,Tuvalu,TUV,,,12000.0
 2019,Tuvalu,TUV,,,12000.0
+1959,Uganda,UGA,22.8,1190.0,6566000.0
 1960,Uganda,UGA,22.36,1210.0,6767000.0
 1961,Uganda,UGA,21.930000000000003,1163.0,6984000.0
 1962,Uganda,UGA,21.52,1174.0,7216000.0
@@ -16062,6 +16095,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Uganda,UGA,,,41167000.0
 2018,Uganda,UGA,,,42729000.0
 2019,Uganda,UGA,,,44270000.0
+1959,Ukraine,UKR,,,42132000.0
 1960,Ukraine,UKR,,,42665000.0
 1961,Ukraine,UKR,,,43206000.0
 1962,Ukraine,UKR,,,43752000.0
@@ -16122,6 +16156,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Ukraine,UKR,,,44488000.0
 2018,Ukraine,UKR,,,44246000.0
 2019,Ukraine,UKR,,,43994000.0
+1959,United Arab Emirates,ARE,,,87000.0
 1960,United Arab Emirates,ARE,20.42,,92000.0
 1961,United Arab Emirates,ARE,19.380000000000006,,101000.0
 1962,United Arab Emirates,ARE,18.33,,112000.0
@@ -16182,6 +16217,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,United Arab Emirates,ARE,,,9487000.0
 2018,United Arab Emirates,ARE,,,9631000.0
 2019,United Arab Emirates,ARE,,,9771000.0
+1959,United Kingdom,GBR,2.7,11525.0,52046000.0
 1960,United Kingdom,GBR,2.66,12000.0,52371000.0
 1961,United Kingdom,GBR,2.6100000000000003,12385.0,52728000.0
 1962,United Kingdom,GBR,2.5600000000000005,12426.0,53109000.0
@@ -16239,7 +16275,6 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,United Kingdom,GBR,0.45,38220.0,65423000.0
 2015,United Kingdom,GBR,0.4400000000000001,38749.0,65860000.0
 2016,United Kingdom,GBR,0.43,39162.0,66298000.0
-1000,United Kingdom,GBR,,759.0,
 1700,United Kingdom,GBR,,1591.0,
 1701,United Kingdom,GBR,,1723.0,
 1702,United Kingdom,GBR,,1667.0,
@@ -16343,6 +16378,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,United Kingdom,GBR,,,66727000.0
 2018,United Kingdom,GBR,,,67142000.0
 2019,United Kingdom,GBR,,,67530000.0
+1959,United States,USA,3.0600000000000005,17901.0,183786000.0
 1960,United States,USA,3.01,18058.0,186720992.0
 1961,United States,USA,2.95,18175.0,189570000.0
 1962,United States,USA,2.89,18977.0,192314000.0
@@ -16406,6 +16442,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,United States,USA,,,325084992.0
 2018,United States,USA,,,327096000.0
 2019,United States,USA,,,329064992.0
+1959,United States Virgin Islands,VIR,,,31000.0
 1960,United States Virgin Islands,VIR,,,33000.0
 1961,United States Virgin Islands,VIR,,,36000.0
 1962,United States Virgin Islands,VIR,,,39000.0
@@ -16466,6 +16503,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,United States Virgin Islands,VIR,,,105000.0
 2018,United States Virgin Islands,VIR,,,105000.0
 2019,United States Virgin Islands,VIR,,,105000.0
+1959,Uruguay,URY,6.4700000000000015,6732.0,2505000.0
 1960,Uruguay,URY,6.4,6867.0,2539000.0
 1961,Uruguay,URY,6.260000000000002,6993.0,2572000.0
 1962,Uruguay,URY,6.1000000000000005,6956.0,2604000.0
@@ -16526,6 +16564,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Uruguay,URY,,,3437000.0
 2018,Uruguay,URY,,,3449000.0
 2019,Uruguay,URY,,,3462000.0
+1959,Uzbekistan,UZB,,,8251000.0
 1960,Uzbekistan,UZB,,,8526000.0
 1961,Uzbekistan,UZB,,,8814000.0
 1962,Uzbekistan,UZB,,,9114000.0
@@ -16586,6 +16625,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Uzbekistan,UZB,,,31960000.0
 2018,Uzbekistan,UZB,,,32476000.0
 2019,Uzbekistan,UZB,,,32982000.0
+1959,Vanuatu,VUT,15.76,,62000.0
 1960,Vanuatu,VUT,15.37,,64000.0
 1961,Vanuatu,VUT,14.97,,66000.0
 1962,Vanuatu,VUT,14.54,,68000.0
@@ -16646,6 +16686,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Vanuatu,VUT,,,285000.0
 2018,Vanuatu,VUT,,,293000.0
 2019,Vanuatu,VUT,,,300000.0
+1959,Vatican,VAT,,,1000.0
 1960,Vatican,VAT,,,1000.0
 1961,Vatican,VAT,,,1000.0
 1962,Vatican,VAT,,,1000.0
@@ -16706,6 +16747,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Vatican,VAT,,,1000.0
 2018,Vatican,VAT,,,1000.0
 2019,Vatican,VAT,,,1000.0
+1959,Venezuela,VEN,8.35,5881.0,7850000.0
 1960,Venezuela,VEN,8.06,5707.0,8142000.0
 1961,Venezuela,VEN,7.78,5727.0,8439000.0
 1962,Venezuela,VEN,7.550000000000002,5789.0,8743000.0
@@ -16766,6 +16808,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Venezuela,VEN,,,29402000.0
 2018,Venezuela,VEN,,,28887000.0
 2019,Venezuela,VEN,,,28516000.0
+1959,Vietnam,VNM,10.6773,1070.0,31698000.0
 1960,Vietnam,VNM,10.2383,1080.0,32670000.0
 1961,Vietnam,VNM,9.8187,1098.0,33666000.0
 1962,Vietnam,VNM,9.4182,1197.0,34683000.0
@@ -16826,6 +16869,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Vietnam,VNM,,,94601000.0
 2018,Vietnam,VNM,,,95546000.0
 2019,Vietnam,VNM,,,96462000.0
+1959,Wallis and Futuna,WLF,,,8000.0
 1960,Wallis and Futuna,WLF,,,8000.0
 1961,Wallis and Futuna,WLF,,,8000.0
 1962,Wallis and Futuna,WLF,,,8000.0
@@ -16886,6 +16930,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Wallis and Futuna,WLF,,,12000.0
 2018,Wallis and Futuna,WLF,,,12000.0
 2019,Wallis and Futuna,WLF,,,11000.0
+1959,Western Asia,,,3491.0,
 1960,Western Asia,,,3635.0,
 1961,Western Asia,,,3816.0,
 1962,Western Asia,,,3963.0,
@@ -16943,6 +16988,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Western Asia,,,21071.0,
 2015,Western Asia,,,21226.0,
 2016,Western Asia,,,20891.0,
+1959,Western Europe,,,9164.0,
 1960,Western Europe,,,9570.0,
 1961,Western Europe,,,9983.0,
 1962,Western Europe,,,10428.0,
@@ -17000,6 +17046,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Western Europe,,,39664.0,
 2015,Western Europe,,,40175.0,
 2016,Western Europe,,,40364.0,
+1959,Western Offshoots,,,17373.0,
 1960,Western Offshoots,,,17475.0,
 1961,Western Offshoots,,,17594.0,
 1962,Western Offshoots,,,18360.0,
@@ -17057,6 +17104,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2014,Western Offshoots,,,50151.0,
 2015,Western Offshoots,,,50951.0,
 2016,Western Offshoots,,,51342.0,
+1959,Western Sahara,ESH,,,30000.0
 1960,Western Sahara,ESH,,,33000.0
 1961,Western Sahara,ESH,,,36000.0
 1962,Western Sahara,ESH,,,39000.0
@@ -17117,6 +17165,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Western Sahara,ESH,,,553000.0
 2018,Western Sahara,ESH,,,567000.0
 2019,Western Sahara,ESH,,,582000.0
+1959,World,OWID_WRL,,4121.0,2979576064.0
 1960,World,OWID_WRL,,4254.0,3034949888.0
 1961,World,OWID_WRL,,4363.0,3091844096.0
 1962,World,OWID_WRL,,4521.0,3150420992.0
@@ -17175,37 +17224,12 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2015,World,OWID_WRL,,14500.0,7379796992.0
 2016,World,OWID_WRL,,14574.0,7464022016.0
 1,World,OWID_WRL,,,188239088.0
-1000,World,OWID_WRL,,,295040192.0
-1300,World,OWID_WRL,,,392403520.0
-1400,World,OWID_WRL,,,389774816.0
-1500,World,OWID_WRL,,,461367648.0
-1600,World,OWID_WRL,,,553956096.0
 1700,World,OWID_WRL,,,603167552.0
 1750,World,OWID_WRL,,,811562112.0
-10000 BCE,World,OWID_WRL,,,2431214.0
-9000 BCE,World,OWID_WRL,,,3564407.0
-8000 BCE,World,OWID_WRL,,,5136461.0
-7000 BCE,World,OWID_WRL,,,7561695.0
-6000 BCE,World,OWID_WRL,,,11461003.0
-5000 BCE,World,OWID_WRL,,,17920172.0
-4000 BCE,World,OWID_WRL,,,28370428.0
-3000 BCE,World,OWID_WRL,,,44819892.0
-2000 BCE,World,OWID_WRL,,,72108128.0
-1000 BCE,World,OWID_WRL,,,115065664.0
-100,World,OWID_WRL,,,195062192.0
-200,World,OWID_WRL,,,202309552.0
-300,World,OWID_WRL,,,205316560.0
-400,World,OWID_WRL,,,208909840.0
-500,World,OWID_WRL,,,210429840.0
-600,World,OWID_WRL,,,212642768.0
-700,World,OWID_WRL,,,225835008.0
-800,World,OWID_WRL,,,240487648.0
-900,World,OWID_WRL,,,268747456.0
-1100,World,OWID_WRL,,,352606912.0
-1200,World,OWID_WRL,,,393081024.0
 2017,World,OWID_WRL,,,7547858944.0
 2018,World,OWID_WRL,,,7631091200.0
 2019,World,OWID_WRL,,,7713467904.0
+1959,Yemen,YEM,41.300700000000006,1111.0,5241000.0
 1960,Yemen,YEM,41.30950000000001,1116.0,5315000.0
 1961,Yemen,YEM,41.1598,1122.0,5393000.0
 1962,Yemen,YEM,40.79680000000001,1129.0,5474000.0
@@ -17266,6 +17290,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Yemen,YEM,,,27835000.0
 2018,Yemen,YEM,,,28499000.0
 2019,Yemen,YEM,,,29162000.0
+1959,Zambia,ZMB,21.040000000000006,1662.0,2980000.0
 1960,Zambia,ZMB,20.590000000000003,1706.0,3071000.0
 1961,Zambia,ZMB,20.15,1719.0,3164000.0
 1962,Zambia,ZMB,19.76,1678.0,3261000.0
@@ -17326,6 +17351,7 @@ Year,Entity,Code,ChildMortalityRate,GDP,Population
 2017,Zambia,ZMB,,,16854000.0
 2018,Zambia,ZMB,,,17352000.0
 2019,Zambia,ZMB,,,17861000.0
+1959,Zimbabwe,ZWE,15.480000000000002,2596.0,3654000.0
 1960,Zimbabwe,ZWE,15.05,2710.0,3777000.0
 1961,Zimbabwe,ZWE,14.61,2760.0,3905000.0
 1962,Zimbabwe,ZWE,14.17,2636.0,4039000.0
