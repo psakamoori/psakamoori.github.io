@@ -52,13 +52,8 @@ async function init() {
   d3.select('body').append('div').attr('id','tooltip').attr('style','position: absolute; opacity:0;');
 
 
-//d3.csv("child-mortality-gdp-per-capita.csv", function(data)
-//d3.csv("ChildMortalityGDPPerCapita.csv", function(data) {
-//d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapita.csv", function(data) {
-
 const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapita.csv")
-  
-  //console.log(data)
+
   var yearScale = d3.scaleLinear().domain([0, 218]).range([1800, 2019]);
  
   var map_update = function(year) {
@@ -68,6 +63,13 @@ const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapi
           return d; 
        
   })
+
+  svg.append("text")
+     .attr("x",(width - 20 - 250))
+     .attr("y", 50)
+     .text("Year: "+year)
+     .style("font-size", "32px")
+     .style("text-dcoration", "underline")
 
   g.selectAll('circle')
    .data(data_year)
@@ -90,8 +92,6 @@ const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapi
 
   map_update(2005);
 }
-//})
-
 
 </script>
 </body>
