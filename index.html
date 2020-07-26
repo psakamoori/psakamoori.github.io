@@ -63,8 +63,14 @@ const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapi
  
   var map_update = function(year) {
 
+  const data_year = data.filter(function(d) {
+        if( d["Year"] == year)
+          return d; 
+       
+  })
+
   g.selectAll('circle')
-   .data(data)
+   .data(data_year)
    .enter().append('circle')
    .attr("cx", function(d) { if(d.GDP > 0.0) return x(+d.GDP);})
    .attr("cy", function(d) {if(d.GDP > 0.0) return y(+d.ChildMortalityRate);})
@@ -82,7 +88,7 @@ const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapi
 
   }
 
-  map_update(2019);
+  map_update(2005);
 }
 //})
 
