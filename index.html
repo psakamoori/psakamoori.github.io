@@ -4,11 +4,11 @@
 <style> 
   circle {fill: lightblue; stroke: blue;} 
 
-  PlayBtn {
+  #plbtn {
       position: absolute;
       top: 140px;
-      left: 150px;
-      background: #f08181;
+      left: 50px;
+      background: #f08080;
       padding-right: 26px;
       border-radius: 3px;
       border: none;
@@ -24,37 +24,41 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <body onload='init()'>
-<div id="vis">
-  <button id="PlayBtn">Play</button>
+<div id="visualization">
+  <button id="plbtn">Play</button>
 </div>
 <svg width=1280 height=720></svg>
-
 <script>
 async function init() {
   width = 1280
   height = 720
 
-  //var color = d3.schemeCategory20();
- //var color = d3.scaleLinear().domain([1,1000])
-  //var color = d3.scaleOrdinal(d3.schemeCategory10);
   var clr = ["#1a1334", "#26294b", "#01345e", "#016351", "#03c343", "#abd852",
      "#cbcf45", "#af7e21", "#edf123", "#b12b5e", "#14ea62", "#17a171"];
   var color = d3.scaleOrdinal().range(clr);
 
+
   // x-axis GDP Per Caita ($US)
-  var x = d3.scaleLog().domain([10, 10000000000]).range([0, width-100])
+  var x = d3.scaleLog().domain([10, 1000000]).range([0, width-100])
  
   // Mortality Rate in %
   var y = d3.scaleLinear().domain([0, 100]).range([height-100, 0])
 
-  var svg = d3.select('svg'),
-        g = svg.append('g')
-        .attr("transform", "translate(" + 50 + "," + 50 + ")")
+  //var svg = d3.select('svg'),
+  //      g = svg.append('g')
+  //      .attr("transform", "translate(" + 50 + "," + 50 + ")")
+
+  var svg = d3.select("#visualization")
+            .append("svg")
+            .attr("width", width + 50 + 50)
+            .attr("height", height + 50 + 50);
+
+  var g = svg.append('g').attr("transform", "translate(" + 50 + "," + 50 + ")")
 
   var yAxis = d3.axisLeft(y).tickValues([0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]);
   //yAxis.tickFormat(d3.format("~%"));
 
-  var pb = d3.select("PlayBtn");
+  var pb = d3.select("#plbtn");
 
   svg.append("g").attr("transform", "translate(" + 50 + "," +50+ ")").call(yAxis);
   svg.append("text")
@@ -65,12 +69,11 @@ async function init() {
       .style("text-anchor", "middle")
       .text("Child Mortality Rate (%)");
 
-  var xAxis = d3.axisBottom(x).tickValues([10, 10000, 1000000, 10000000000]);
+  var xAxis = d3.axisBottom(x).tickValues([10, 1000, 10000, 1000000]);
   xAxis.tickFormat(d3.format("$"));
 
-
   xaxis_trans = height  - 50
-  svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans+ ")").call(xAxis);
+  var plt = svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans+ ")").call(xAxis);
   svg.append("text")
      .attr("transform","translate(" + (width/2) + " ," + (height - 10) + ")")
      .attr("text-anchor", "middle")
@@ -78,11 +81,11 @@ async function init() {
 
   d3.select('body').append('div').attr('id','tooltip').attr('style','position: absolute; opacity:0;');
 
-const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapita.csv")
+  const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapita.csv")
 
-  //var yearScale = d3.scaleLinear().domain([0, 218]).range([1800, 2019]);
- 
   var map_update = function(year) {
+
+  //d3.select("svg").empty();
 
   const data_year = data.filter(function(d) {
         if( d["Year"] == year)
@@ -102,21 +105,43 @@ const data = await d3.csv("https://psakamoori.github.io/ChildMortalityGDPPerCapi
    .enter().append('circle')
    .attr("cx", function(d) { if(d.GDP > 0.0) return x(+d.GDP);})
    .attr("cy", function(d) {if(d.GDP > 0.0) return y(+d.ChildMortalityRate);})
-   //.attr("r", function(d) {if(d.GDP > 0.0) return (+d.ChildMortalityRate);})
    .attr("r", function(d) {if(d.GDP > 0.0) return (+3);})
-   //.style("fill", function(d, i) { return color[i]; })
    .style("fill", function(d, i) { return color(i); })
    .on('mouseover', function(d) {
        d3.select('#tooltip').transition().duration(100).style('opacity',1).text(d.Entity)
-    })
+      })
    .on('mouseout', function() {
-     d3.select('#tooltip').style('opacity',0)
-    })
+       d3.select('#tooltip').style('opacity',0)
+     })
    .on('mousemove', function() {
-      d3.select('#tooltip').style('left', (d3.event.pageX+10) + 'px').style('top', (d3.event.pageY+10) + 'px')
-    });
+        d3.select('#tooltip').style('left', (d3.event.pageX+10) + 'px').style('top', (d3.event.pageY+10) + 'px')
+     });
+   }
 
-  }
+  pb.on("click", function() {
+     for(i = 1960; i <= 2015; i++) {
+       const data_year = data.filter(function(d) {
+            if( d["Year"] == i)
+               return d;
+       })
+
+       //var loc = plt.selectAll(".location")
+       // .data(data_year);
+
+        //loc.enter().append("circle")
+        //.attr("class", "location")
+        //.attr("cx", function(d) { if(d.GDP > 0.0) return x(+d.GDP);})
+        //.attr("cy", function(d) {if(d.GDP > 0.0) return y(+d.ChildMortalityRate);})
+        //.attr("r", function(d) {if(d.GDP > 0.0) return (+3);})
+        //.style("fill", function(d, i) { return color(i); })
+        //  .transition()
+        //  .duration(1000)
+
+        //loc.exit().remove();
+	
+	break;
+     }
+   })
 
   map_update(1959);
 }
