@@ -118,24 +118,42 @@ async function init() {
      });
    }
 
-  pb.on("click", function() {
+  pb.on("click", function(data_year) {
      for(i = 1960; i <= 2015; i++) {
+
+        //var cr = svg.select("g").selectAll("circle").data(data_year);
+        //cr.exit().remove();
+
+        svg.append("text")
+        .attr("x",(width - 20 - 250))
+        .attr("y", 50)
+        .text("Year: "+i)
+        .style("font-size", "32px")
+        .style("text-dcoration", "underline")
+
        const data_year = data.filter(function(d) {
             if( d["Year"] == i)
                return d;
        })
+   
+       //var cr = svg.select("g").selectAll("circle").data(data_year);
+       //cr.exit().remove();
 
-       //var loc = plt.selectAll(".location")
-       // .data(data_year);
+       //var loc = plt.selectAll(".location").data(data_year);
 
-        //loc.enter().append("circle")
-        //.attr("class", "location")
-        //.attr("cx", function(d) { if(d.GDP > 0.0) return x(+d.GDP);})
-        //.attr("cy", function(d) {if(d.GDP > 0.0) return y(+d.ChildMortalityRate);})
-        //.attr("r", function(d) {if(d.GDP > 0.0) return (+3);})
-        //.style("fill", function(d, i) { return color(i); })
-        //  .transition()
-        //  .duration(1000)
+        //cr.enter().append("circle")
+       g.selectAll('circle')
+        .data(data_year)
+        .enter().append('circle')
+        .attr("cx", function(d) { 
+		if(d.GDP > 0.0) 
+			return x(+d.GDP);
+		})
+        .attr("cy", function(d) {if(d.GDP > 0.0) return y(+d.ChildMortalityRate);})
+        .attr("r", function(d) {if(d.GDP > 0.0) return (+3);})
+        .style("fill", function(d, i) { return color(i); })
+          .transition()
+          .duration(1000)
 
         //loc.exit().remove();
 	
