@@ -6,8 +6,8 @@
 
   #plbtn {
       position: absolute;
-      top: 140px;
-      left: 50px;
+      top: 50px;
+      left: 80px;
       background: #f08080;
       padding-right: 26px;
       border-radius: 3px;
@@ -94,6 +94,14 @@ svg.append("text")
     .attr("text-anchor", "middle")
     .text("GDP Per Capita (US$) - Year : " + currentYear);
 
+svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0)
+      .attr("x",0 - (height / 2))
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Child Mortality Rate in % (CMR)");
+
 var plt = svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans+ ")").call(xAxis);            
 
 // svg.append("text")
@@ -115,7 +123,7 @@ svg.append("g")
     .attr("r", function(d) {if(d.GDP > 0.0) return (+3);})
     .style("fill", function(d, i) { return color(i); })
     .on('mouseover', function(d) {
-        d3.select('#tooltip').transition().duration(100).style('opacity',1).text(d.Entity).text(+d.GDP).text(+d.ChildMortalityRate)
+        d3.select('#tooltip').transition().duration(100).style('opacity',1).text("Country: "+d.Entity+", GDP: "+d.GDP+", CMR: "+d.ChildMortalityRate)
         })
     .on('mouseout', function() {
         d3.select('#tooltip').style('opacity',0)
