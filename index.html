@@ -48,6 +48,14 @@ var dataForYear = data.filter(row => (row.Year == year) && row.Year >=1960 && ro
 return dataForYear;
 }
 
+function getMortalityRateForYear1959(data, year)
+{
+  var dataForYear1959 = data.filter(row => row.Year == year);
+
+  // return dataForYear.map(row => row.ChildMortalityRate);
+  return dataForYear1959;
+}
+
 function visualizeData(data) {                
 //globals
 var xBuffer=50;
@@ -93,11 +101,13 @@ var plt = svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans
 //     .attr("y",50)
 //     .text(currentYear);
 
+var Array1959 = getMortalityRateForYear1959(data, "1959");
+
 svg.append("g")
     .attr("transform", "translate(" + 50 + "," +xaxis_trans+ ")").call(xAxis)
     .attr("transform", "translate(" + 50 + "," +50+ ")").call(yAxis)
     .selectAll("circle")
-    .data(circlesArray)
+    .data(Array1959)
     .enter()
     .append("circle")
     .attr("cx", function(d) { if(d.GDP > 0.0) return x(+d.GDP);})
