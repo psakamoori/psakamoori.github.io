@@ -109,6 +109,16 @@ var plt = svg.append("g").attr("transform", "translate(" + 50 + "," +xaxis_trans
 //     .attr("y",50)
 //     .text(currentYear);
 
+
+ svg.append("text")
+     .attr("x", 430)
+     .attr("y",100)
+     .attr("font-size", "20px")
+     .attr("font-fmaliy", "sans-serif")
+     .attr("fill", "blue")
+     .text("GDP Per Capita Vs Child Mortality Rate");
+
+
 var Array1959 = getMortalityRateForYear1959(data, "1959");
 
 svg.append("g")
