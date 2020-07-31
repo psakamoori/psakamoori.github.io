@@ -130,7 +130,7 @@ svg.append("g")
     .append("circle")
     .attr("cx", function(d) { if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return x(+d.GDP);})
     .attr("cy", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return y(+d.ChildMortalityRate);})
-    .attr("r", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return (+3);})
+    .attr("r", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return (+d.ChildMortalityRate);})
     .style("fill", function(d, i) { return color(i); })
     .on('mouseover', function(d) {
         d3.select('#tooltip').transition().duration(100).style('opacity',1).text("Country: "+d.Entity+", GDP: "+d.GDP+", CMR: "+d.ChildMortalityRate)
@@ -170,7 +170,7 @@ d3.select("#plbtn")
             .attr("r",0)//create any new circles needed
             .attr("cx", function(d) { if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return x(+d.GDP);})
             .attr("cy", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return y(+d.ChildMortalityRate);})
-            .attr("r", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return (+3);})
+            .attr("r", function(d) {if(d.GDP > 0.0 && d.ChildMortalityRate > 0) return (+d.ChildMortalityRate);})
             .style("fill", function(d, i) { return color(i); })
             .on('mouseover', function(d) {
                 d3.select('#tooltip').transition().duration(100).style('opacity',1).text("Country: "+d.Entity+", GDP: "+d.GDP+", CMR: "+d.ChildMortalityRate)
